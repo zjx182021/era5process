@@ -1,0 +1,1145 @@
+nohup: ignoring input
+---------------------
+Get 1940 data
+---------------------
+2025-04-25 12:13:01,124 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 12:13:01,124 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 12:13:02,660 INFO Request ID is 1f132674-c956-468e-ad8d-cbe680ad62c8
+2025-04-25 12:13:02,952 INFO status has been updated to accepted
+2025-04-25 12:13:35,429 INFO status has been updated to running
+2025-04-25 12:15:55,558 INFO status has been updated to successful
+
+cffec9e1f005897fc94225ea8ee1c37d.nc:   0%|          | 0.00/36.4M [00:00<?, ?B/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:   3%|▎         | 1.00M/36.4M [00:01<00:58, 633kB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:   5%|▌         | 2.00M/36.4M [00:01<00:29, 1.22MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  11%|█         | 4.00M/36.4M [00:02<00:12, 2.79MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  16%|█▋        | 6.00M/36.4M [00:02<00:07, 4.16MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  19%|█▉        | 7.00M/36.4M [00:02<00:08, 3.63MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  27%|██▋       | 10.0M/36.4M [00:03<00:04, 5.66MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  30%|███       | 11.0M/36.4M [00:03<00:04, 5.69MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  33%|███▎      | 12.0M/36.4M [00:03<00:04, 5.74MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  36%|███▌      | 13.0M/36.4M [00:03<00:04, 5.76MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  38%|███▊      | 14.0M/36.4M [00:04<00:05, 3.93MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  47%|████▋     | 17.0M/36.4M [00:04<00:04, 4.73MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  49%|████▉     | 18.0M/36.4M [00:04<00:03, 4.95MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  52%|█████▏    | 19.0M/36.4M [00:05<00:04, 4.32MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  55%|█████▍    | 20.0M/36.4M [00:05<00:04, 3.92MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  58%|█████▊    | 21.0M/36.4M [00:05<00:04, 3.90MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  60%|██████    | 22.0M/36.4M [00:06<00:04, 3.61MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  63%|██████▎   | 23.0M/36.4M [00:08<00:12, 1.16MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  66%|██████▌   | 24.0M/36.4M [00:09<00:10, 1.23MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  69%|██████▊   | 25.0M/36.4M [00:09<00:08, 1.38MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  71%|███████▏  | 26.0M/36.4M [00:10<00:06, 1.64MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  74%|███████▍  | 27.0M/36.4M [00:10<00:05, 1.89MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  77%|███████▋  | 28.0M/36.4M [00:10<00:03, 2.35MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  80%|███████▉  | 29.0M/36.4M [00:11<00:03, 2.51MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  82%|████████▏ | 30.0M/36.4M [00:11<00:02, 2.65MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  85%|████████▌ | 31.0M/36.4M [00:11<00:01, 3.14MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  88%|████████▊ | 32.0M/36.4M [00:11<00:01, 3.09MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  91%|█████████ | 33.0M/36.4M [00:12<00:01, 3.05MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  93%|█████████▎| 34.0M/36.4M [00:12<00:00, 3.04MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  96%|█████████▌| 35.0M/36.4M [00:13<00:00, 3.04MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc:  99%|█████████▉| 36.0M/36.4M [00:13<00:00, 3.50MB/s]
+cffec9e1f005897fc94225ea8ee1c37d.nc: 100%|██████████| 36.4M/36.4M [00:13<00:00, 3.34MB/s]
+                                                                                         
+---------------------
+Get 1941 data
+---------------------
+2025-04-25 12:16:11,770 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 12:16:11,770 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 12:16:12,564 INFO Request ID is 0f6c19ec-e32a-4579-882f-697db02b745c
+2025-04-25 12:16:12,768 INFO status has been updated to accepted
+2025-04-25 12:22:33,259 INFO status has been updated to running
+2025-04-25 12:24:34,020 INFO status has been updated to successful
+
+14966f79b2559b08bf381058466a1cdd.nc:   0%|          | 0.00/36.0M [00:00<?, ?B/s]
+14966f79b2559b08bf381058466a1cdd.nc:   3%|▎         | 1.00M/36.0M [00:01<00:57, 636kB/s]
+14966f79b2559b08bf381058466a1cdd.nc:   6%|▌         | 2.00M/36.0M [00:01<00:26, 1.34MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:   8%|▊         | 3.00M/36.0M [00:01<00:15, 2.18MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  17%|█▋        | 6.00M/36.0M [00:02<00:06, 5.16MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  25%|██▌       | 9.00M/36.0M [00:02<00:03, 7.84MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  33%|███▎      | 12.0M/36.0M [00:02<00:02, 10.1MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  42%|████▏     | 15.0M/36.0M [00:02<00:01, 12.0MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  50%|█████     | 18.0M/36.0M [00:02<00:01, 13.5MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  58%|█████▊    | 21.0M/36.0M [00:03<00:01, 14.6MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  67%|██████▋   | 24.0M/36.0M [00:03<00:00, 14.6MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  72%|███████▏  | 26.0M/36.0M [00:05<00:03, 3.32MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  78%|███████▊  | 28.0M/36.0M [00:05<00:02, 3.73MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  86%|████████▌ | 31.0M/36.0M [00:06<00:01, 5.16MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  92%|█████████▏| 33.0M/36.0M [00:06<00:00, 5.30MB/s]
+14966f79b2559b08bf381058466a1cdd.nc:  97%|█████████▋| 35.0M/36.0M [00:06<00:00, 6.20MB/s]
+                                                                                         
+---------------------
+Get 1942 data
+---------------------
+2025-04-25 12:24:42,231 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 12:24:42,231 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 12:24:43,436 INFO Request ID is 14659131-f9f9-4f19-8749-eac2c45296b6
+2025-04-25 12:24:43,670 INFO status has been updated to accepted
+2025-04-25 12:27:36,765 INFO status has been updated to running
+2025-04-25 12:29:03,914 INFO status has been updated to successful
+
+4e2af238d66666239105b918f04f147c.nc:   0%|          | 0.00/36.3M [00:00<?, ?B/s]
+4e2af238d66666239105b918f04f147c.nc:   3%|▎         | 1.00M/36.3M [00:01<01:00, 617kB/s]
+4e2af238d66666239105b918f04f147c.nc:   6%|▌         | 2.00M/36.3M [00:02<00:33, 1.09MB/s]
+4e2af238d66666239105b918f04f147c.nc:  14%|█▍        | 5.00M/36.3M [00:02<00:12, 2.55MB/s]
+4e2af238d66666239105b918f04f147c.nc:  22%|██▏       | 8.00M/36.3M [00:02<00:06, 4.48MB/s]
+4e2af238d66666239105b918f04f147c.nc:  28%|██▊       | 10.0M/36.3M [00:03<00:04, 5.59MB/s]
+4e2af238d66666239105b918f04f147c.nc:  30%|███       | 11.0M/36.3M [00:03<00:05, 5.10MB/s]
+4e2af238d66666239105b918f04f147c.nc:  36%|███▌      | 13.0M/36.3M [00:03<00:04, 5.96MB/s]
+4e2af238d66666239105b918f04f147c.nc:  39%|███▊      | 14.0M/36.3M [00:03<00:03, 5.95MB/s]
+4e2af238d66666239105b918f04f147c.nc:  41%|████▏     | 15.0M/36.3M [00:03<00:03, 5.93MB/s]
+4e2af238d66666239105b918f04f147c.nc:  44%|████▍     | 16.0M/36.3M [00:04<00:03, 5.92MB/s]
+4e2af238d66666239105b918f04f147c.nc:  47%|████▋     | 17.0M/36.3M [00:04<00:03, 5.91MB/s]
+4e2af238d66666239105b918f04f147c.nc:  50%|████▉     | 18.0M/36.3M [00:04<00:03, 5.90MB/s]
+4e2af238d66666239105b918f04f147c.nc:  52%|█████▏    | 19.0M/36.3M [00:04<00:03, 5.93MB/s]
+4e2af238d66666239105b918f04f147c.nc:  55%|█████▌    | 20.0M/36.3M [00:04<00:02, 5.97MB/s]
+4e2af238d66666239105b918f04f147c.nc:  58%|█████▊    | 21.0M/36.3M [00:05<00:02, 5.98MB/s]
+4e2af238d66666239105b918f04f147c.nc:  63%|██████▎   | 23.0M/36.3M [00:05<00:02, 4.87MB/s]
+4e2af238d66666239105b918f04f147c.nc:  69%|██████▉   | 25.0M/36.3M [00:05<00:01, 6.30MB/s]
+4e2af238d66666239105b918f04f147c.nc:  72%|███████▏  | 26.0M/36.3M [00:06<00:02, 4.21MB/s]
+4e2af238d66666239105b918f04f147c.nc:  74%|███████▍  | 27.0M/36.3M [00:06<00:02, 3.81MB/s]
+4e2af238d66666239105b918f04f147c.nc:  77%|███████▋  | 28.0M/36.3M [00:06<00:02, 3.56MB/s]
+4e2af238d66666239105b918f04f147c.nc:  80%|███████▉  | 29.0M/36.3M [00:07<00:02, 3.41MB/s]
+4e2af238d66666239105b918f04f147c.nc:  83%|████████▎ | 30.0M/36.3M [00:07<00:02, 3.31MB/s]
+4e2af238d66666239105b918f04f147c.nc:  85%|████████▌ | 31.0M/36.3M [00:07<00:01, 3.67MB/s]
+4e2af238d66666239105b918f04f147c.nc:  88%|████████▊ | 32.0M/36.3M [00:08<00:01, 3.51MB/s]
+4e2af238d66666239105b918f04f147c.nc:  91%|█████████ | 33.0M/36.3M [00:08<00:00, 3.86MB/s]
+4e2af238d66666239105b918f04f147c.nc:  94%|█████████▎| 34.0M/36.3M [00:08<00:00, 3.49MB/s]
+4e2af238d66666239105b918f04f147c.nc:  96%|█████████▋| 35.0M/36.3M [00:09<00:00, 3.35MB/s]
+4e2af238d66666239105b918f04f147c.nc:  99%|█████████▉| 36.0M/36.3M [00:09<00:00, 3.74MB/s]
+                                                                                         
+---------------------
+Get 1943 data
+---------------------
+2025-04-25 12:29:14,968 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 12:29:14,968 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 12:29:15,793 INFO Request ID is 6e4541a7-9cfa-4cc5-969d-7283adc3a65f
+2025-04-25 12:29:16,014 INFO status has been updated to accepted
+2025-04-25 12:33:35,898 INFO status has been updated to running
+2025-04-25 12:35:37,279 INFO status has been updated to successful
+
+1679669534e73abeb56ca0051ac23745.nc:   0%|          | 0.00/36.3M [00:00<?, ?B/s]
+1679669534e73abeb56ca0051ac23745.nc:   3%|▎         | 1.00M/36.3M [00:01<01:02, 591kB/s]
+1679669534e73abeb56ca0051ac23745.nc:   6%|▌         | 2.00M/36.3M [00:01<00:28, 1.25MB/s]
+1679669534e73abeb56ca0051ac23745.nc:   8%|▊         | 3.00M/36.3M [00:02<00:20, 1.71MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  11%|█         | 4.00M/36.3M [00:02<00:15, 2.22MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  14%|█▍        | 5.00M/36.3M [00:02<00:13, 2.44MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  17%|█▋        | 6.00M/36.3M [00:03<00:12, 2.60MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  19%|█▉        | 7.00M/36.3M [00:03<00:09, 3.15MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  22%|██▏       | 8.00M/36.3M [00:03<00:10, 2.85MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  25%|██▍       | 9.00M/36.3M [00:04<00:09, 3.16MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  28%|██▊       | 10.0M/36.3M [00:04<00:08, 3.09MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  30%|███       | 11.0M/36.3M [00:04<00:08, 3.05MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  33%|███▎      | 12.0M/36.3M [00:05<00:08, 3.02MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  36%|███▌      | 13.0M/36.3M [00:05<00:08, 3.00MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  39%|███▊      | 14.0M/36.3M [00:05<00:07, 3.01MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  41%|████▏     | 15.0M/36.3M [00:06<00:07, 3.00MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  44%|████▍     | 16.0M/36.3M [00:06<00:07, 3.00MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  47%|████▋     | 17.0M/36.3M [00:06<00:06, 2.99MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  50%|████▉     | 18.0M/36.3M [00:07<00:06, 2.99MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  52%|█████▏    | 19.0M/36.3M [00:07<00:05, 3.19MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  55%|█████▌    | 20.0M/36.3M [00:07<00:05, 3.13MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  58%|█████▊    | 21.0M/36.3M [00:08<00:04, 3.34MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  61%|██████    | 22.0M/36.3M [00:08<00:04, 3.24MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  63%|██████▎   | 23.0M/36.3M [00:08<00:04, 3.16MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  66%|██████▌   | 24.0M/36.3M [00:09<00:04, 3.11MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  69%|██████▉   | 25.0M/36.3M [00:09<00:03, 3.08MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  72%|███████▏  | 26.0M/36.3M [00:09<00:03, 3.23MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  74%|███████▍  | 27.0M/36.3M [00:10<00:03, 3.19MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  77%|███████▋  | 28.0M/36.3M [00:10<00:02, 3.10MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  80%|███████▉  | 29.0M/36.3M [00:11<00:02, 2.88MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  83%|████████▎ | 30.0M/36.3M [00:11<00:02, 2.88MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  85%|████████▌ | 31.0M/36.3M [00:11<00:02, 2.70MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  88%|████████▊ | 32.0M/36.3M [00:12<00:01, 2.64MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  91%|█████████ | 33.0M/36.3M [00:15<00:04, 847kB/s] 
+1679669534e73abeb56ca0051ac23745.nc:  94%|█████████▎| 34.0M/36.3M [00:15<00:02, 1.02MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  96%|█████████▋| 35.0M/36.3M [00:16<00:01, 1.13MB/s]
+1679669534e73abeb56ca0051ac23745.nc:  99%|█████████▉| 36.0M/36.3M [00:17<00:00, 1.22MB/s]
+1679669534e73abeb56ca0051ac23745.nc: 100%|██████████| 36.3M/36.3M [00:17<00:00, 1.27MB/s]
+                                                                                         
+---------------------
+Get 1944 data
+---------------------
+2025-04-25 12:35:56,434 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 12:35:56,434 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 12:35:57,232 INFO Request ID is f2d5b3b3-a5df-4f2a-89e3-1a7b7c52cc4c
+2025-04-25 12:35:57,502 INFO status has been updated to accepted
+2025-04-25 12:36:30,122 INFO status has been updated to running
+2025-04-25 12:38:50,382 INFO status has been updated to successful
+
+71f7d7463fee136e7c42a1bd54580978.nc:   0%|          | 0.00/36.6M [00:00<?, ?B/s]
+71f7d7463fee136e7c42a1bd54580978.nc:   3%|▎         | 1.00M/36.6M [00:01<01:00, 617kB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:   5%|▌         | 2.00M/36.6M [00:01<00:27, 1.32MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  11%|█         | 4.00M/36.6M [00:02<00:11, 3.08MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  19%|█▉        | 7.00M/36.6M [00:02<00:05, 5.53MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  27%|██▋       | 10.0M/36.6M [00:02<00:03, 7.94MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  36%|███▌      | 13.0M/36.6M [00:02<00:02, 10.1MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  44%|████▍     | 16.0M/36.6M [00:02<00:01, 11.9MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  49%|████▉     | 18.0M/36.6M [00:03<00:02, 7.07MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  55%|█████▍    | 20.0M/36.6M [00:03<00:02, 6.70MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  57%|█████▋    | 21.0M/36.6M [00:04<00:03, 4.84MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  60%|██████    | 22.0M/36.6M [00:04<00:03, 4.32MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  63%|██████▎   | 23.0M/36.6M [00:04<00:03, 4.55MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  66%|██████▌   | 24.0M/36.6M [00:05<00:02, 4.80MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  74%|███████▍  | 27.0M/36.6M [00:05<00:01, 7.45MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  82%|████████▏ | 30.0M/36.6M [00:08<00:03, 2.00MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  85%|████████▍ | 31.0M/36.6M [00:08<00:02, 2.24MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  90%|█████████ | 33.0M/36.6M [00:08<00:01, 3.02MB/s]
+71f7d7463fee136e7c42a1bd54580978.nc:  96%|█████████▌| 35.0M/36.6M [00:08<00:00, 3.94MB/s]
+                                                                                         
+---------------------
+Get 1945 data
+---------------------
+2025-04-25 12:39:01,343 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 12:39:01,343 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 12:39:02,130 INFO Request ID is 5dd94ec9-8169-48af-84ba-e1d5fd365ce8
+2025-04-25 12:39:02,324 INFO status has been updated to accepted
+2025-04-25 12:43:22,364 INFO status has been updated to running
+2025-04-25 12:45:23,053 INFO status has been updated to successful
+
+822550539824e9c06b8ef77482d52eb6.nc:   0%|          | 0.00/36.4M [00:00<?, ?B/s]
+822550539824e9c06b8ef77482d52eb6.nc:   3%|▎         | 1.00M/36.4M [00:01<01:01, 608kB/s]
+822550539824e9c06b8ef77482d52eb6.nc:   5%|▌         | 2.00M/36.4M [00:01<00:28, 1.29MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  11%|█         | 4.00M/36.4M [00:02<00:11, 2.91MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  19%|█▉        | 7.00M/36.4M [00:02<00:05, 5.56MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  25%|██▍       | 9.00M/36.4M [00:04<00:13, 2.16MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  27%|██▋       | 10.0M/36.4M [00:04<00:13, 2.11MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  30%|███       | 11.0M/36.4M [00:05<00:11, 2.25MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  33%|███▎      | 12.0M/36.4M [00:05<00:10, 2.38MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  41%|████      | 15.0M/36.4M [00:05<00:05, 3.81MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  49%|████▉     | 18.0M/36.4M [00:06<00:03, 5.67MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  55%|█████▍    | 20.0M/36.4M [00:06<00:03, 5.74MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  63%|██████▎   | 23.0M/36.4M [00:07<00:02, 5.79MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  71%|███████▏  | 26.0M/36.4M [00:07<00:01, 7.56MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  77%|███████▋  | 28.0M/36.4M [00:07<00:01, 8.26MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  82%|████████▏ | 30.0M/36.4M [00:08<00:01, 5.60MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  88%|████████▊ | 32.0M/36.4M [00:08<00:00, 6.50MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  91%|█████████ | 33.0M/36.4M [00:08<00:00, 6.39MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  93%|█████████▎| 34.0M/36.4M [00:09<00:00, 3.49MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  96%|█████████▌| 35.0M/36.4M [00:09<00:00, 3.53MB/s]
+822550539824e9c06b8ef77482d52eb6.nc:  99%|█████████▉| 36.0M/36.4M [00:09<00:00, 3.65MB/s]
+                                                                                         
+---------------------
+Get 1946 data
+---------------------
+2025-04-25 12:45:35,550 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 12:45:35,550 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 12:45:36,450 INFO Request ID is 12e9859c-258d-47a4-aef1-8d91d206751a
+2025-04-25 12:45:36,652 INFO status has been updated to accepted
+2025-04-25 12:51:57,710 INFO status has been updated to running
+2025-04-25 12:53:58,398 INFO status has been updated to successful
+
+5ed6b32d8f88e12b723cdb489389da99.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:   3%|▎         | 1.00M/36.1M [00:01<00:57, 636kB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:   6%|▌         | 2.00M/36.1M [00:01<00:26, 1.34MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:   8%|▊         | 3.00M/36.1M [00:01<00:15, 2.18MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  17%|█▋        | 6.00M/36.1M [00:02<00:06, 5.18MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  19%|█▉        | 7.00M/36.1M [00:06<00:36, 832kB/s] 
+5ed6b32d8f88e12b723cdb489389da99.nc:  22%|██▏       | 8.00M/36.1M [00:06<00:27, 1.07MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  25%|██▍       | 9.00M/36.1M [00:07<00:20, 1.37MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  33%|███▎      | 12.0M/36.1M [00:07<00:09, 2.68MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  42%|████▏     | 15.0M/36.1M [00:07<00:05, 4.21MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  50%|████▉     | 18.0M/36.1M [00:07<00:03, 5.95MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  58%|█████▊    | 21.0M/36.1M [00:07<00:02, 7.78MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  64%|██████▍   | 23.0M/36.1M [00:07<00:01, 8.64MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  72%|███████▏  | 26.0M/36.1M [00:08<00:01, 10.5MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  78%|███████▊  | 28.0M/36.1M [00:11<00:03, 2.33MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  83%|████████▎ | 30.0M/36.1M [00:11<00:02, 2.77MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc:  92%|█████████▏| 33.0M/36.1M [00:11<00:00, 3.98MB/s]
+5ed6b32d8f88e12b723cdb489389da99.nc: 100%|█████████▉| 36.0M/36.1M [00:11<00:00, 5.41MB/s]
+                                                                                         
+---------------------
+Get 1947 data
+---------------------
+2025-04-25 12:54:12,496 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 12:54:12,497 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 12:54:13,515 INFO Request ID is 59beb7c3-9dbd-4843-9a9c-76dada1e30d0
+2025-04-25 12:54:13,877 INFO status has been updated to accepted
+2025-04-25 13:32:46,271 INFO status has been updated to running
+2025-04-25 13:34:51,933 INFO status has been updated to successful
+
+8beb80fbd1e88317ce3c5505c6f71804.nc:   0%|          | 0.00/36.3M [00:00<?, ?B/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:   3%|▎         | 1.00M/36.3M [00:01<00:57, 649kB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:   6%|▌         | 2.00M/36.3M [00:01<00:26, 1.37MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:   8%|▊         | 3.00M/36.3M [00:01<00:15, 2.21MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  17%|█▋        | 6.00M/36.3M [00:02<00:06, 5.26MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  25%|██▍       | 9.00M/36.3M [00:02<00:03, 8.01MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  33%|███▎      | 12.0M/36.3M [00:02<00:02, 10.4MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  39%|███▊      | 14.0M/36.3M [00:02<00:02, 9.93MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  44%|████▍     | 16.0M/36.3M [00:02<00:02, 10.5MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  50%|████▉     | 18.0M/36.3M [00:05<00:07, 2.71MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  52%|█████▏    | 19.0M/36.3M [00:05<00:06, 2.99MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  55%|█████▌    | 20.0M/36.3M [00:05<00:05, 3.01MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  63%|██████▎   | 23.0M/36.3M [00:05<00:02, 4.86MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  69%|██████▉   | 25.0M/36.3M [00:05<00:01, 5.94MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  74%|███████▍  | 27.0M/36.3M [00:06<00:01, 5.99MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  83%|████████▎ | 30.0M/36.3M [00:06<00:00, 6.92MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  88%|████████▊ | 32.0M/36.3M [00:06<00:00, 7.80MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  91%|█████████ | 33.0M/36.3M [00:06<00:00, 7.45MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  94%|█████████▎| 34.0M/36.3M [00:08<00:01, 2.09MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  96%|█████████▋| 35.0M/36.3M [00:09<00:00, 2.24MB/s]
+8beb80fbd1e88317ce3c5505c6f71804.nc:  99%|█████████▉| 36.0M/36.3M [00:09<00:00, 2.62MB/s]
+                                                                                         
+---------------------
+Get 1948 data
+---------------------
+2025-04-25 13:35:03,514 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 13:35:03,514 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 13:35:04,532 INFO Request ID is 33e9342f-1212-4fc4-8b82-b96d054a3e05
+2025-04-25 13:35:04,750 INFO status has been updated to accepted
+2025-04-25 14:33:50,240 INFO status has been updated to running
+2025-04-25 14:35:51,017 INFO status has been updated to successful
+
+13ccfb26b16cc906306e62d8de7f7454.nc:   0%|          | 0.00/36.6M [00:00<?, ?B/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:   3%|▎         | 1.00M/36.6M [00:01<00:57, 645kB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:   5%|▌         | 2.00M/36.6M [00:01<00:26, 1.35MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  11%|█         | 4.00M/36.6M [00:01<00:11, 3.02MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  19%|█▉        | 7.00M/36.6M [00:02<00:05, 5.49MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  27%|██▋       | 10.0M/36.6M [00:02<00:03, 7.92MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  36%|███▌      | 13.0M/36.6M [00:02<00:02, 10.0MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  41%|████      | 15.0M/36.6M [00:02<00:02, 8.84MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  47%|████▋     | 17.0M/36.6M [00:03<00:02, 9.44MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  52%|█████▏    | 19.0M/36.6M [00:03<00:02, 7.26MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  57%|█████▋    | 21.0M/36.6M [00:04<00:02, 5.79MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  66%|██████▌   | 24.0M/36.6M [00:04<00:01, 7.66MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  68%|██████▊   | 25.0M/36.6M [00:04<00:01, 6.23MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  77%|███████▋  | 28.0M/36.6M [00:04<00:01, 8.33MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  82%|████████▏ | 30.0M/36.6M [00:05<00:01, 5.52MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  85%|████████▍ | 31.0M/36.6M [00:05<00:01, 5.57MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  88%|████████▊ | 32.0M/36.6M [00:05<00:00, 5.55MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  90%|█████████ | 33.0M/36.6M [00:06<00:00, 5.52MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  93%|█████████▎| 34.0M/36.6M [00:06<00:00, 5.49MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  96%|█████████▌| 35.0M/36.6M [00:06<00:00, 5.52MB/s]
+13ccfb26b16cc906306e62d8de7f7454.nc:  98%|█████████▊| 36.0M/36.6M [00:06<00:00, 5.59MB/s]
+                                                                                         
+---------------------
+Get 1949 data
+---------------------
+2025-04-25 14:35:59,856 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 14:35:59,857 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 14:36:00,604 INFO Request ID is 4d747ef8-c5ef-4cfe-bf3b-c905b00a1560
+2025-04-25 14:36:00,816 INFO status has been updated to accepted
+2025-04-25 15:48:45,491 INFO status has been updated to running
+2025-04-25 15:50:46,182 INFO status has been updated to successful
+
+37e0252569bfd94171bfb8a615418cf4.nc:   0%|          | 0.00/36.0M [00:00<?, ?B/s]
+37e0252569bfd94171bfb8a615418cf4.nc:   3%|▎         | 1.00M/36.0M [00:01<00:56, 649kB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:   6%|▌         | 2.00M/36.0M [00:01<00:25, 1.41MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  11%|█         | 4.00M/36.0M [00:01<00:10, 3.16MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  19%|█▉        | 7.00M/36.0M [00:02<00:05, 5.98MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  25%|██▌       | 9.00M/36.0M [00:02<00:04, 6.02MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  31%|███       | 11.0M/36.0M [00:02<00:03, 7.25MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  36%|███▌      | 13.0M/36.0M [00:02<00:02, 8.31MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  44%|████▍     | 16.0M/36.0M [00:02<00:01, 10.7MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  50%|█████     | 18.0M/36.0M [00:03<00:01, 11.1MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  58%|█████▊    | 21.0M/36.0M [00:03<00:01, 12.9MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  67%|██████▋   | 24.0M/36.0M [00:03<00:00, 14.3MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  72%|███████▏  | 26.0M/36.0M [00:05<00:03, 3.21MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  78%|███████▊  | 28.0M/36.0M [00:06<00:02, 3.66MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  86%|████████▌ | 31.0M/36.0M [00:06<00:01, 5.13MB/s]
+37e0252569bfd94171bfb8a615418cf4.nc:  94%|█████████▍| 34.0M/36.0M [00:06<00:00, 6.76MB/s]
+                                                                                         
+---------------------
+Get 1950 data
+---------------------
+2025-04-25 15:50:54,652 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 15:50:54,652 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 15:50:56,266 INFO Request ID is a06d39bc-ec23-44b2-bc98-c7cdeefd0e0d
+2025-04-25 15:50:56,462 INFO status has been updated to accepted
+2025-04-25 16:53:45,514 INFO status has been updated to running
+2025-04-25 16:55:46,294 INFO status has been updated to successful
+
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:   3%|▎         | 1.00M/36.2M [00:01<00:59, 624kB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:   6%|▌         | 2.00M/36.2M [00:01<00:27, 1.32MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:   8%|▊         | 3.00M/36.2M [00:01<00:15, 2.20MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  14%|█▍        | 5.00M/36.2M [00:04<00:32, 996kB/s] 
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  17%|█▋        | 6.00M/36.2M [00:05<00:25, 1.23MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  19%|█▉        | 7.00M/36.2M [00:05<00:19, 1.60MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  22%|██▏       | 8.00M/36.2M [00:05<00:14, 2.04MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  30%|███       | 11.0M/36.2M [00:05<00:06, 4.03MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  36%|███▌      | 13.0M/36.2M [00:06<00:04, 5.23MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  44%|████▍     | 16.0M/36.2M [00:06<00:02, 7.48MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  50%|████▉     | 18.0M/36.2M [00:09<00:09, 2.02MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  53%|█████▎    | 19.0M/36.2M [00:09<00:08, 2.01MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  55%|█████▌    | 20.0M/36.2M [00:09<00:07, 2.30MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  58%|█████▊    | 21.0M/36.2M [00:09<00:05, 2.65MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  64%|██████▎   | 23.0M/36.2M [00:10<00:03, 3.80MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  69%|██████▉   | 25.0M/36.2M [00:10<00:02, 5.02MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  75%|███████▍  | 27.0M/36.2M [00:10<00:01, 6.28MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  77%|███████▋  | 28.0M/36.2M [00:10<00:01, 5.18MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  86%|████████▌ | 31.0M/36.2M [00:11<00:00, 7.58MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  91%|█████████ | 33.0M/36.2M [00:11<00:00, 8.48MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc:  97%|█████████▋| 35.0M/36.2M [00:11<00:00, 9.29MB/s]
+bd5ad55a27119a9296fdb8fb3f9b356e.nc: 100%|██████████| 36.2M/36.2M [00:11<00:00, 8.77MB/s]
+                                                                                         
+---------------------
+Get 1951 data
+---------------------
+2025-04-25 16:56:00,040 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 16:56:00,040 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 16:56:00,940 INFO Request ID is c62fa5ce-289c-40be-b46c-d63e01f3275d
+2025-04-25 16:56:01,157 INFO status has been updated to accepted
+2025-04-25 17:54:42,275 INFO status has been updated to running
+2025-04-25 17:56:43,020 INFO status has been updated to successful
+
+c2eb8ef928e3ebe8100968786ac7ba86.nc:   0%|          | 0.00/36.0M [00:00<?, ?B/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:   3%|▎         | 1.00M/36.0M [00:01<00:59, 618kB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:   6%|▌         | 2.00M/36.0M [00:01<00:27, 1.31MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:   8%|▊         | 3.00M/36.0M [00:02<00:17, 1.94MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  11%|█         | 4.00M/36.0M [00:02<00:14, 2.24MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  17%|█▋        | 6.00M/36.0M [00:05<00:30, 1.03MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  19%|█▉        | 7.00M/36.0M [00:05<00:24, 1.25MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  25%|██▌       | 9.00M/36.0M [00:06<00:13, 2.06MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  28%|██▊       | 10.0M/36.0M [00:06<00:11, 2.44MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  33%|███▎      | 12.0M/36.0M [00:06<00:08, 2.88MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  42%|████▏     | 15.0M/36.0M [00:07<00:05, 4.19MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  47%|████▋     | 17.0M/36.0M [00:07<00:04, 4.59MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  53%|█████▎    | 19.0M/36.0M [00:07<00:03, 4.90MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  56%|█████▌    | 20.0M/36.0M [00:07<00:03, 5.02MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  58%|█████▊    | 21.0M/36.0M [00:08<00:03, 4.39MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  61%|██████    | 22.0M/36.0M [00:08<00:03, 3.97MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  64%|██████▍   | 23.0M/36.0M [00:08<00:03, 4.27MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  67%|██████▋   | 24.0M/36.0M [00:09<00:03, 3.84MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  70%|██████▉   | 25.0M/36.0M [00:09<00:02, 4.18MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  72%|███████▏  | 26.0M/36.0M [00:09<00:03, 3.29MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  75%|███████▌  | 27.0M/36.0M [00:10<00:02, 3.64MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  78%|███████▊  | 28.0M/36.0M [00:10<00:02, 3.40MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  81%|████████  | 29.0M/36.0M [00:10<00:02, 3.24MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  83%|████████▎ | 30.0M/36.0M [00:11<00:01, 3.14MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  86%|████████▌ | 31.0M/36.0M [00:11<00:01, 3.08MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  89%|████████▉ | 32.0M/36.0M [00:11<00:01, 3.04MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  92%|█████████▏| 33.0M/36.0M [00:12<00:01, 3.04MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  95%|█████████▍| 34.0M/36.0M [00:12<00:00, 3.32MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc:  97%|█████████▋| 35.0M/36.0M [00:13<00:00, 2.85MB/s]
+c2eb8ef928e3ebe8100968786ac7ba86.nc: 100%|██████████| 36.0M/36.0M [00:13<00:00, 2.84MB/s]
+                                                                                         
+---------------------
+Get 1952 data
+---------------------
+2025-04-25 17:56:58,527 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 17:56:58,527 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 17:56:59,323 INFO Request ID is e4b7ad22-c177-4c89-87ab-fdfcb718cecf
+2025-04-25 17:56:59,557 INFO status has been updated to accepted
+2025-04-25 19:29:56,341 INFO status has been updated to running
+2025-04-25 19:31:57,016 INFO status has been updated to successful
+
+d69a5654738dccdaf7e6714b24d4b063.nc:   0%|          | 0.00/36.3M [00:00<?, ?B/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:   3%|▎         | 1.00M/36.3M [00:01<00:56, 651kB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:   6%|▌         | 2.00M/36.3M [00:01<00:26, 1.37MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:   8%|▊         | 3.00M/36.3M [00:01<00:15, 2.20MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  17%|█▋        | 6.00M/36.3M [00:02<00:06, 5.26MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  25%|██▍       | 9.00M/36.3M [00:02<00:03, 8.02MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  33%|███▎      | 12.0M/36.3M [00:02<00:02, 9.09MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  41%|████▏     | 15.0M/36.3M [00:03<00:02, 7.67MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  47%|████▋     | 17.0M/36.3M [00:03<00:02, 8.46MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  55%|█████▌    | 20.0M/36.3M [00:03<00:01, 10.4MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  61%|██████    | 22.0M/36.3M [00:03<00:01, 10.9MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  69%|██████▉   | 25.0M/36.3M [00:07<00:05, 2.20MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  74%|███████▍  | 27.0M/36.3M [00:08<00:04, 2.16MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  77%|███████▋  | 28.0M/36.3M [00:08<00:03, 2.39MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  83%|████████▎ | 30.0M/36.3M [00:08<00:02, 3.15MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  88%|████████▊ | 32.0M/36.3M [00:08<00:01, 4.06MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  94%|█████████▎| 34.0M/36.3M [00:08<00:00, 5.09MB/s]
+d69a5654738dccdaf7e6714b24d4b063.nc:  99%|█████████▉| 36.0M/36.3M [00:09<00:00, 5.62MB/s]
+                                                                                         
+---------------------
+Get 1953 data
+---------------------
+2025-04-25 19:32:08,370 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 19:32:08,370 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 19:32:09,275 INFO Request ID is aafa813b-ec76-4bf3-8c70-909e74dd796e
+2025-04-25 19:32:09,488 INFO status has been updated to accepted
+2025-04-25 20:45:03,458 INFO status has been updated to running
+2025-04-25 20:47:04,317 INFO status has been updated to successful
+
+eed7af05a72f95db73077d77d4dfd374.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]
+eed7af05a72f95db73077d77d4dfd374.nc:   3%|▎         | 1.00M/36.1M [00:01<00:57, 645kB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:   6%|▌         | 2.00M/36.1M [00:01<00:26, 1.35MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  11%|█         | 4.00M/36.1M [00:01<00:11, 3.04MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  19%|█▉        | 7.00M/36.1M [00:02<00:05, 5.51MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  28%|██▊       | 10.0M/36.1M [00:02<00:04, 5.89MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  36%|███▌      | 13.0M/36.1M [00:02<00:03, 7.92MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  42%|████▏     | 15.0M/36.1M [00:03<00:03, 7.23MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  47%|████▋     | 17.0M/36.1M [00:03<00:02, 8.04MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  53%|█████▎    | 19.0M/36.1M [00:03<00:02, 8.87MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  58%|█████▊    | 21.0M/36.1M [00:03<00:01, 9.64MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  67%|██████▋   | 24.0M/36.1M [00:03<00:01, 11.6MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  72%|███████▏  | 26.0M/36.1M [00:04<00:01, 9.13MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  78%|███████▊  | 28.0M/36.1M [00:04<00:00, 9.79MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  83%|████████▎ | 30.0M/36.1M [00:07<00:03, 1.96MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  86%|████████▌ | 31.0M/36.1M [00:08<00:02, 1.96MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  89%|████████▊ | 32.0M/36.1M [00:08<00:02, 2.09MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  94%|█████████▍| 34.0M/36.1M [00:08<00:00, 2.95MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc:  97%|█████████▋| 35.0M/36.1M [00:11<00:01, 1.14MB/s]
+eed7af05a72f95db73077d77d4dfd374.nc: 100%|█████████▉| 36.0M/36.1M [00:12<00:00, 1.29MB/s]
+                                                                                         
+---------------------
+Get 1954 data
+---------------------
+2025-04-25 20:47:19,115 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 20:47:19,116 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 20:47:20,014 INFO Request ID is 1541b90f-e15f-4033-a563-92d525a78a32
+2025-04-25 20:47:20,210 INFO status has been updated to accepted
+2025-04-25 21:31:56,456 INFO status has been updated to running
+2025-04-25 21:33:57,523 INFO status has been updated to successful
+
+c18126446e50a50ea5a53af411856aa6.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]
+c18126446e50a50ea5a53af411856aa6.nc:   3%|▎         | 1.00M/36.1M [00:01<00:58, 625kB/s]
+c18126446e50a50ea5a53af411856aa6.nc:   6%|▌         | 2.00M/36.1M [00:01<00:27, 1.32MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:   8%|▊         | 3.00M/36.1M [00:02<00:19, 1.76MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  17%|█▋        | 6.00M/36.1M [00:02<00:07, 4.35MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  22%|██▏       | 8.00M/36.1M [00:02<00:05, 5.75MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  30%|███       | 11.0M/36.1M [00:02<00:03, 8.23MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  39%|███▉      | 14.0M/36.1M [00:02<00:02, 10.4MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  44%|████▍     | 16.0M/36.1M [00:03<00:01, 10.8MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  50%|████▉     | 18.0M/36.1M [00:05<00:07, 2.58MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  53%|█████▎    | 19.0M/36.1M [00:05<00:06, 2.84MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  55%|█████▌    | 20.0M/36.1M [00:05<00:05, 3.16MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  61%|██████    | 22.0M/36.1M [00:06<00:03, 4.27MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  66%|██████▋   | 24.0M/36.1M [00:06<00:02, 5.44MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  75%|███████▍  | 27.0M/36.1M [00:06<00:01, 7.58MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  80%|████████  | 29.0M/36.1M [00:06<00:00, 8.47MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  86%|████████▌ | 31.0M/36.1M [00:07<00:00, 6.31MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  91%|█████████▏| 33.0M/36.1M [00:07<00:00, 7.29MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  94%|█████████▍| 34.0M/36.1M [00:09<00:01, 2.22MB/s]
+c18126446e50a50ea5a53af411856aa6.nc:  97%|█████████▋| 35.0M/36.1M [00:09<00:00, 2.33MB/s]
+                                                                                         
+---------------------
+Get 1955 data
+---------------------
+2025-04-25 21:34:09,742 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 21:34:09,743 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 21:34:10,642 INFO Request ID is 52def057-0176-4504-9b87-28f83d824367
+2025-04-25 21:34:10,919 INFO status has been updated to accepted
+2025-04-25 23:35:26,364 INFO status has been updated to successful
+
+61d6eb1c6565973cf425b256aff45e32.nc:   0%|          | 0.00/36.0M [00:00<?, ?B/s]
+61d6eb1c6565973cf425b256aff45e32.nc:   3%|▎         | 1.00M/36.0M [00:01<00:56, 651kB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:   6%|▌         | 2.00M/36.0M [00:01<00:26, 1.37MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:   8%|▊         | 3.00M/36.0M [00:01<00:15, 2.20MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  17%|█▋        | 6.00M/36.0M [00:02<00:06, 5.23MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  25%|██▍       | 9.00M/36.0M [00:02<00:03, 7.98MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  31%|███       | 11.0M/36.0M [00:06<00:20, 1.28MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  33%|███▎      | 12.0M/36.0M [00:07<00:16, 1.50MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  36%|███▌      | 13.0M/36.0M [00:07<00:13, 1.78MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  44%|████▍     | 16.0M/36.0M [00:07<00:06, 3.09MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  53%|█████▎    | 19.0M/36.0M [00:07<00:03, 4.63MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  61%|██████    | 22.0M/36.0M [00:07<00:02, 6.34MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  69%|██████▉   | 25.0M/36.0M [00:07<00:01, 8.12MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  75%|███████▍  | 27.0M/36.0M [00:08<00:01, 7.63MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  83%|████████▎ | 30.0M/36.0M [00:08<00:00, 9.50MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  89%|████████▉ | 32.0M/36.0M [00:10<00:01, 2.99MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  92%|█████████▏| 33.0M/36.0M [00:10<00:00, 3.23MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc:  94%|█████████▍| 34.0M/36.0M [00:10<00:00, 3.53MB/s]
+61d6eb1c6565973cf425b256aff45e32.nc: 100%|█████████▉| 36.0M/36.0M [00:11<00:00, 4.64MB/s]
+                                                                                         
+---------------------
+Get 1956 data
+---------------------
+2025-04-25 23:35:39,816 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-25 23:35:39,821 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-25 23:35:40,763 INFO Request ID is cba351fc-5c94-457e-8abb-a2a14421f0f4
+2025-04-25 23:35:40,973 INFO status has been updated to accepted
+2025-04-26 01:53:00,769 INFO status has been updated to running
+2025-04-26 01:55:01,446 INFO status has been updated to successful
+
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:   3%|▎         | 1.00M/36.2M [00:01<00:57, 644kB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:   6%|▌         | 2.00M/36.2M [00:01<00:26, 1.36MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  11%|█         | 4.00M/36.2M [00:01<00:10, 3.23MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  19%|█▉        | 7.00M/36.2M [00:02<00:05, 5.77MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  25%|██▍       | 9.00M/36.2M [00:04<00:12, 2.21MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  28%|██▊       | 10.0M/36.2M [00:04<00:11, 2.34MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  33%|███▎      | 12.0M/36.2M [00:04<00:07, 3.31MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  39%|███▊      | 14.0M/36.2M [00:04<00:05, 4.42MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  47%|████▋     | 17.0M/36.2M [00:05<00:03, 6.47MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  55%|█████▌    | 20.0M/36.2M [00:05<00:01, 8.56MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  61%|██████    | 22.0M/36.2M [00:07<00:05, 2.67MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  63%|██████▎   | 23.0M/36.2M [00:07<00:04, 2.92MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  66%|██████▋   | 24.0M/36.2M [00:07<00:03, 3.24MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  75%|███████▍  | 27.0M/36.2M [00:08<00:01, 5.07MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  83%|████████▎ | 30.0M/36.2M [00:08<00:00, 7.00MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  91%|█████████ | 33.0M/36.2M [00:08<00:00, 8.91MB/s]
+91a7efd0f784fe7a797ef86dc5d6b19c.nc:  97%|█████████▋| 35.0M/36.2M [00:10<00:00, 2.73MB/s]
+                                                                                         
+---------------------
+Get 1957 data
+---------------------
+2025-04-26 01:55:14,300 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 01:55:14,300 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 01:55:15,487 INFO Request ID is c4541bde-51bc-4b97-959f-c80197aef19f
+2025-04-26 01:55:15,879 INFO status has been updated to accepted
+2025-04-26 02:37:50,338 INFO status has been updated to running
+2025-04-26 02:39:51,009 INFO status has been updated to accepted
+2025-04-26 04:04:26,844 INFO status has been updated to running
+2025-04-26 04:06:27,411 INFO status has been updated to successful
+
+57db9e1ef42d05a14074d4029fde373d.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]
+57db9e1ef42d05a14074d4029fde373d.nc:   3%|▎         | 1.00M/36.1M [00:01<00:58, 630kB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:   6%|▌         | 2.00M/36.1M [00:01<00:26, 1.33MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  11%|█         | 4.00M/36.1M [00:02<00:11, 2.95MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  14%|█▍        | 5.00M/36.1M [00:02<00:13, 2.42MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  17%|█▋        | 6.00M/36.1M [00:02<00:10, 2.96MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  19%|█▉        | 7.00M/36.1M [00:02<00:08, 3.48MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  22%|██▏       | 8.00M/36.1M [00:03<00:07, 3.97MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  25%|██▍       | 9.00M/36.1M [00:03<00:07, 3.61MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  28%|██▊       | 10.0M/36.1M [00:03<00:07, 3.42MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  33%|███▎      | 12.0M/36.1M [00:04<00:04, 5.09MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  36%|███▌      | 13.0M/36.1M [00:04<00:05, 4.31MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  39%|███▉      | 14.0M/36.1M [00:04<00:04, 4.67MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  44%|████▍     | 16.0M/36.1M [00:04<00:03, 6.30MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  47%|████▋     | 17.0M/36.1M [00:06<00:10, 1.84MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  50%|████▉     | 18.0M/36.1M [00:07<00:09, 2.03MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  53%|█████▎    | 19.0M/36.1M [00:07<00:07, 2.46MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  55%|█████▌    | 20.0M/36.1M [00:07<00:05, 2.93MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  58%|█████▊    | 21.0M/36.1M [00:07<00:04, 3.42MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  61%|██████    | 22.0M/36.1M [00:07<00:03, 3.89MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  64%|██████▎   | 23.0M/36.1M [00:07<00:03, 4.35MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  69%|██████▉   | 25.0M/36.1M [00:08<00:01, 6.05MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  72%|███████▏  | 26.0M/36.1M [00:08<00:01, 6.05MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  75%|███████▍  | 27.0M/36.1M [00:08<00:01, 6.08MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  80%|████████  | 29.0M/36.1M [00:08<00:00, 7.59MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  83%|████████▎ | 30.0M/36.1M [00:08<00:01, 5.63MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  91%|█████████▏| 33.0M/36.1M [00:09<00:00, 8.48MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc:  94%|█████████▍| 34.0M/36.1M [00:09<00:00, 6.25MB/s]
+57db9e1ef42d05a14074d4029fde373d.nc: 100%|█████████▉| 36.0M/36.1M [00:09<00:00, 7.44MB/s]
+                                                                                         
+---------------------
+Get 1958 data
+---------------------
+2025-04-26 04:06:38,584 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 04:06:38,585 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 04:06:39,502 INFO Request ID is 7a26bc7f-e68d-494b-8484-fa7081d3bcf8
+2025-04-26 04:06:39,710 INFO status has been updated to accepted
+2025-04-26 06:21:59,496 INFO status has been updated to successful
+
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:   3%|▎         | 1.00M/36.2M [00:01<01:09, 529kB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:   8%|▊         | 3.00M/36.2M [00:02<00:19, 1.80MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  11%|█         | 4.00M/36.2M [00:02<00:14, 2.37MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  14%|█▍        | 5.00M/36.2M [00:02<00:11, 2.95MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  17%|█▋        | 6.00M/36.2M [00:02<00:09, 3.51MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  19%|█▉        | 7.00M/36.2M [00:02<00:07, 4.02MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  22%|██▏       | 8.00M/36.2M [00:03<00:06, 4.45MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  25%|██▍       | 9.00M/36.2M [00:03<00:05, 4.83MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  28%|██▊       | 10.0M/36.2M [00:03<00:05, 5.12MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  33%|███▎      | 12.0M/36.2M [00:03<00:03, 6.85MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  36%|███▌      | 13.0M/36.2M [00:03<00:03, 6.58MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  39%|███▊      | 14.0M/36.2M [00:03<00:03, 6.40MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  41%|████▏     | 15.0M/36.2M [00:04<00:03, 6.28MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  47%|████▋     | 17.0M/36.2M [00:04<00:02, 7.77MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  50%|████▉     | 18.0M/36.2M [00:04<00:02, 7.24MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  53%|█████▎    | 19.0M/36.2M [00:04<00:02, 6.88MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  55%|█████▌    | 20.0M/36.2M [00:04<00:02, 6.66MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  61%|██████    | 22.0M/36.2M [00:05<00:01, 8.02MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  64%|██████▎   | 23.0M/36.2M [00:05<00:01, 7.44MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  66%|██████▋   | 24.0M/36.2M [00:05<00:01, 7.01MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  72%|███████▏  | 26.0M/36.2M [00:05<00:01, 8.31MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  75%|███████▍  | 27.0M/36.2M [00:05<00:01, 7.66MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  80%|████████  | 29.0M/36.2M [00:05<00:00, 8.71MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  83%|████████▎ | 30.0M/36.2M [00:06<00:00, 7.95MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  86%|████████▌ | 31.0M/36.2M [00:06<00:00, 7.40MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  91%|█████████ | 33.0M/36.2M [00:06<00:00, 8.58MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  94%|█████████▍| 34.0M/36.2M [00:06<00:00, 7.85MB/s]
+a20e5d0f2d9b6d1430e39dfe75299e8d.nc:  99%|█████████▉| 36.0M/36.2M [00:06<00:00, 8.87MB/s]
+                                                                                         
+---------------------
+Get 1959 data
+---------------------
+2025-04-26 06:22:08,352 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 06:22:08,353 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 06:22:09,236 INFO Request ID is 49702ef9-62ef-4b0f-b038-798180de3de5
+2025-04-26 06:22:09,428 INFO status has been updated to accepted
+2025-04-26 09:17:57,311 INFO status has been updated to running
+2025-04-26 09:19:58,031 INFO status has been updated to successful
+
+d84df648b4d64eba6cbf911a21739b3.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]
+d84df648b4d64eba6cbf911a21739b3.nc:   3%|▎         | 1.00M/36.1M [00:01<00:57, 636kB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:   6%|▌         | 2.00M/36.1M [00:01<00:29, 1.23MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  11%|█         | 4.00M/36.1M [00:02<00:12, 2.69MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  14%|█▍        | 5.00M/36.1M [00:02<00:10, 3.25MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  17%|█▋        | 6.00M/36.1M [00:02<00:07, 3.97MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  19%|█▉        | 7.00M/36.1M [00:02<00:06, 4.42MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  22%|██▏       | 8.00M/36.1M [00:02<00:06, 4.80MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  25%|██▍       | 9.00M/36.1M [00:03<00:05, 5.11MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  30%|███       | 11.0M/36.1M [00:03<00:04, 6.40MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  33%|███▎      | 12.0M/36.1M [00:03<00:04, 6.29MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  36%|███▌      | 13.0M/36.1M [00:03<00:03, 6.23MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  39%|███▉      | 14.0M/36.1M [00:03<00:03, 6.20MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  42%|████▏     | 15.0M/36.1M [00:03<00:03, 6.61MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  44%|████▍     | 16.0M/36.1M [00:04<00:03, 6.46MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  50%|████▉     | 18.0M/36.1M [00:04<00:02, 7.37MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  53%|█████▎    | 19.0M/36.1M [00:04<00:02, 7.05MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  55%|█████▌    | 20.0M/36.1M [00:04<00:02, 7.17MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  58%|█████▊    | 21.0M/36.1M [00:04<00:02, 6.98MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  64%|██████▎   | 23.0M/36.1M [00:04<00:01, 7.71MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  66%|██████▋   | 24.0M/36.1M [00:05<00:01, 7.34MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  69%|██████▉   | 25.0M/36.1M [00:08<00:09, 1.21MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  72%|███████▏  | 26.0M/36.1M [00:08<00:07, 1.44MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  75%|███████▍  | 27.0M/36.1M [00:08<00:05, 1.82MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  78%|███████▊  | 28.0M/36.1M [00:08<00:03, 2.26MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  80%|████████  | 29.0M/36.1M [00:09<00:02, 2.75MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  83%|████████▎ | 30.0M/36.1M [00:09<00:01, 3.27MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  86%|████████▌ | 31.0M/36.1M [00:09<00:01, 3.78MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  91%|█████████▏| 33.0M/36.1M [00:09<00:00, 5.42MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  94%|█████████▍| 34.0M/36.1M [00:09<00:00, 5.56MB/s]
+d84df648b4d64eba6cbf911a21739b3.nc:  97%|█████████▋| 35.0M/36.1M [00:09<00:00, 5.69MB/s]
+                                                                                        
+---------------------
+Get 1960 data
+---------------------
+2025-04-26 09:20:10,063 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 09:20:10,063 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 09:20:10,853 INFO Request ID is c46c7b0a-a793-489d-b21a-cba750bd8f47
+2025-04-26 09:20:11,390 INFO status has been updated to accepted
+2025-04-26 11:05:09,176 INFO status has been updated to running
+2025-04-26 11:07:09,911 INFO status has been updated to successful
+
+ba4b7a93514b65cd0ea076e76718caf6.nc:   0%|          | 0.00/36.4M [00:00<?, ?B/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:   3%|▎         | 1.00M/36.4M [00:01<00:58, 636kB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:   5%|▌         | 2.00M/36.4M [00:01<00:26, 1.34MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  11%|█         | 4.00M/36.4M [00:02<00:12, 2.69MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  14%|█▎        | 5.00M/36.4M [00:02<00:10, 3.25MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  16%|█▋        | 6.00M/36.4M [00:02<00:08, 3.78MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  22%|██▏       | 8.00M/36.4M [00:02<00:05, 5.51MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  27%|██▋       | 10.0M/36.4M [00:02<00:03, 7.07MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  30%|███       | 11.0M/36.4M [00:07<00:28, 930kB/s] 
+ba4b7a93514b65cd0ea076e76718caf6.nc:  33%|███▎      | 12.0M/36.4M [00:07<00:21, 1.17MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  38%|███▊      | 14.0M/36.4M [00:07<00:12, 1.84MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  41%|████      | 15.0M/36.4M [00:07<00:10, 2.19MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  44%|████▍     | 16.0M/36.4M [00:08<00:09, 2.34MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  52%|█████▏    | 19.0M/36.4M [00:08<00:04, 4.21MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  58%|█████▊    | 21.0M/36.4M [00:08<00:03, 4.13MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  66%|██████▌   | 24.0M/36.4M [00:09<00:02, 6.02MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  71%|███████▏  | 26.0M/36.4M [00:09<00:01, 6.01MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  74%|███████▍  | 27.0M/36.4M [00:09<00:01, 6.00MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  77%|███████▋  | 28.0M/36.4M [00:09<00:01, 5.99MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  80%|███████▉  | 29.0M/36.4M [00:10<00:01, 5.99MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  82%|████████▏ | 30.0M/36.4M [00:10<00:01, 5.98MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  85%|████████▌ | 31.0M/36.4M [00:10<00:00, 5.99MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  88%|████████▊ | 32.0M/36.4M [00:10<00:00, 5.97MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  91%|█████████ | 33.0M/36.4M [00:10<00:00, 6.00MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  96%|█████████▌| 35.0M/36.4M [00:10<00:00, 7.52MB/s]
+ba4b7a93514b65cd0ea076e76718caf6.nc:  99%|█████████▉| 36.0M/36.4M [00:11<00:00, 7.07MB/s]
+               2025-04-26 12:46:20,403 INFO status has been updated to running
+2025-04-26 12:48:21,222 INFO status has been updated to successful
+702544498e7e57e2f46fd40fccc45084.nc:   0%|          | 0.00/35.9M [00:00<?, ?B/s]702544498e7e57e2f46fd40fccc45084.nc:   3%|▎         | 1.00M/35.9M [00:01<00:55, 655kB/s]702544498e7e57e2f46fd40fccc45084.nc:   6%|▌         | 2.00M/35.9M [00:01<00:25, 1.37MB/s]702544498e7e57e2f46fd40fccc45084.nc:  11%|█         | 4.00M/35.9M [00:01<00:10, 3.07MB/s]702544498e7e57e2f46fd40fccc45084.nc:  19%|█▉        | 7.00M/35.9M [00:02<00:05, 5.84MB/s]702544498e7e57e2f46fd40fccc45084.nc:  28%|██▊       | 10.0M/35.9M [00:02<00:03, 7.83MB/s]702544498e7e57e2f46fd40fccc45084.nc:  36%|███▌      | 13.0M/35.9M [00:02<00:02, 9.91MB/s]702544498e7e57e2f46fd40fccc45084.nc:  45%|████▍     | 16.0M/35.9M [00:02<00:01, 11.8MB/s]702544498e7e57e2f46fd40fccc45084.nc:  50%|█████     | 18.0M/35.9M [00:02<00:01, 13.2MB/s]702544498e7e57e2f46fd40fccc45084.nc:  58%|█████▊    | 21.0M/35.9M [00:03<00:01, 14.5MB/s]702544498e7e57e2f46fd40fccc45084.nc:  67%|██████▋   | 24.0M/35.9M [00:03<00:00, 15.3MB/s]702544498e7e57e2f46fd40fccc45084.nc:  75%|███████▌  | 27.0M/35.9M [00:03<00:00, 16.0MB/s]702544498e7e57e2f46fd40fccc45084.nc:  83%|████████▎ | 30.0M/35.9M [00:03<00:00, 16.5MB/s]702544498e7e57e2f46fd40fccc45084.nc:  92%|█████████▏| 33.0M/35.9M [00:03<00:00, 15.5MB/s]702544498e7e57e2f46fd40fccc45084.nc: 100%|██████████| 35.9M/35.9M [00:03<00:00, 17.3MB/s]                                                                                         ---------------------
+Get 1962 data
+---------------------
+2025-04-26 12:48:27,321 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 12:48:27,321 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 12:48:28,679 INFO Request ID is 46b9fc7e-848f-40e6-bf82-59a83dee8433
+2025-04-26 12:48:28,884 INFO status has been updated to accepted
+2025-04-26 13:25:00,661 INFO status has been updated to running
+2025-04-26 13:27:01,333 INFO status has been updated to successful
+614e8099f630c8cd6fd26b10ed2669f9.nc:   0%|          | 0.00/36.0M [00:00<?, ?B/s]614e8099f630c8cd6fd26b10ed2669f9.nc:   3%|▎         | 1.00M/36.0M [00:01<01:05, 564kB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:   8%|▊         | 3.00M/36.0M [00:02<00:19, 1.76MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  11%|█         | 4.00M/36.0M [00:02<00:15, 2.23MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  14%|█▍        | 5.00M/36.0M [00:04<00:35, 904kB/s] 614e8099f630c8cd6fd26b10ed2669f9.nc:  17%|█▋        | 6.00M/36.0M [00:05<00:27, 1.16MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  19%|█▉        | 7.00M/36.0M [00:05<00:21, 1.43MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  22%|██▏       | 8.00M/36.0M [00:06<00:18, 1.56MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  25%|██▌       | 9.00M/36.0M [00:06<00:15, 1.82MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  28%|██▊       | 10.0M/36.0M [00:06<00:13, 2.06MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  31%|███       | 11.0M/36.0M [00:07<00:11, 2.26MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  33%|███▎      | 12.0M/36.0M [00:07<00:10, 2.43MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  36%|███▌      | 13.0M/36.0M [00:08<00:09, 2.56MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  39%|███▉      | 14.0M/36.0M [00:08<00:08, 2.66MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  42%|████▏     | 15.0M/36.0M [00:08<00:08, 2.73MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  44%|████▍     | 16.0M/36.0M [00:09<00:07, 2.77MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  47%|████▋     | 17.0M/36.0M [00:09<00:06, 2.84MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  50%|█████     | 18.0M/36.0M [00:09<00:06, 2.76MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  53%|█████▎    | 19.0M/36.0M [00:10<00:06, 2.89MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  56%|█████▌    | 20.0M/36.0M [00:10<00:06, 2.55MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  58%|█████▊    | 21.0M/36.0M [00:11<00:06, 2.50MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  61%|██████    | 22.0M/36.0M [00:11<00:06, 2.17MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  64%|██████▍   | 23.0M/36.0M [00:12<00:06, 2.09MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  67%|██████▋   | 24.0M/36.0M [00:12<00:06, 2.05MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  69%|██████▉   | 25.0M/36.0M [00:13<00:05, 2.02MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  72%|███████▏  | 26.0M/36.0M [00:13<00:05, 1.97MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  75%|███████▌  | 27.0M/36.0M [00:14<00:05, 1.82MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  78%|███████▊  | 28.0M/36.0M [00:15<00:04, 1.76MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  81%|████████  | 29.0M/36.0M [00:15<00:04, 1.73MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  83%|████████▎ | 30.0M/36.0M [00:16<00:03, 1.65MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  86%|████████▌ | 31.0M/36.0M [00:17<00:03, 1.69MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  89%|████████▉ | 32.0M/36.0M [00:18<00:02, 1.54MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  92%|█████████▏| 33.0M/36.0M [00:18<00:02, 1.49MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  94%|█████████▍| 34.0M/36.0M [00:19<00:01, 1.34MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc:  97%|█████████▋| 35.0M/36.0M [00:20<00:00, 1.32MB/s]614e8099f630c8cd6fd26b10ed2669f9.nc: 100%|██████████| 36.0M/36.0M [00:21<00:00, 1.27MB/s]                                                                                         ---------------------
+Get 1963 data
+---------------------
+2025-04-26 13:27:24,975 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 13:27:24,976 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 13:27:25,761 INFO Request ID is 24ac1521-f347-469a-a2cf-cf08e82acd63
+2025-04-26 13:27:25,971 INFO status has been updated to accepted
+2025-04-26 13:51:53,472 INFO status has been updated to running
+2025-04-26 13:53:54,152 INFO status has been updated to successful
+f93498b8069500b66048e00f90c84fb6.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]f93498b8069500b66048e00f90c84fb6.nc:   3%|▎         | 1.00M/36.2M [00:01<00:57, 640kB/s]f93498b8069500b66048e00f90c84fb6.nc:   6%|▌         | 2.00M/36.2M [00:02<00:37, 970kB/s]f93498b8069500b66048e00f90c84fb6.nc:   8%|▊         | 3.00M/36.2M [00:02<00:27, 1.27MB/s]f93498b8069500b66048e00f90c84fb6.nc:  11%|█         | 4.00M/36.2M [00:03<00:22, 1.49MB/s]f93498b8069500b66048e00f90c84fb6.nc:  14%|█▍        | 5.00M/36.2M [00:03<00:19, 1.64MB/s]f93498b8069500b66048e00f90c84fb6.nc:  17%|█▋        | 6.00M/36.2M [00:04<00:18, 1.76MB/s]f93498b8069500b66048e00f90c84fb6.nc:  19%|█▉        | 7.00M/36.2M [00:04<00:16, 1.91MB/s]f93498b8069500b66048e00f90c84fb6.nc:  22%|██▏       | 8.00M/36.2M [00:05<00:14, 2.06MB/s]f93498b8069500b66048e00f90c84fb6.nc:  25%|██▍       | 9.00M/36.2M [00:05<00:13, 2.05MB/s]f93498b8069500b66048e00f90c84fb6.nc:  28%|██▊       | 10.0M/36.2M [00:06<00:12, 2.13MB/s]f93498b8069500b66048e00f90c84fb6.nc:  30%|███       | 11.0M/36.2M [00:06<00:11, 2.23MB/s]f93498b8069500b66048e00f90c84fb6.nc:  33%|███▎      | 12.0M/36.2M [00:07<00:11, 2.17MB/s]f93498b8069500b66048e00f90c84fb6.nc:  36%|███▌      | 13.0M/36.2M [00:07<00:11, 2.21MB/s]f93498b8069500b66048e00f90c84fb6.nc:  39%|███▊      | 14.0M/36.2M [00:08<00:10, 2.29MB/s]f93498b8069500b66048e00f90c84fb6.nc:  41%|████▏     | 15.0M/36.2M [00:08<00:10, 2.22MB/s]f93498b8069500b66048e00f90c84fb6.nc:  44%|████▍     | 16.0M/36.2M [00:09<00:09, 2.24MB/s]f93498b8069500b66048e00f90c84fb6.nc:  47%|████▋     | 17.0M/36.2M [00:09<00:08, 2.31MB/s]f93498b8069500b66048e00f90c84fb6.nc:  50%|████▉     | 18.0M/36.2M [00:10<00:09, 1.98MB/s]f93498b8069500b66048e00f90c84fb6.nc:  52%|█████▏    | 19.0M/36.2M [00:10<00:08, 2.17MB/s]f93498b8069500b66048e00f90c84fb6.nc:  55%|█████▌    | 20.0M/36.2M [00:11<00:08, 1.98MB/s]f93498b8069500b66048e00f90c84fb6.nc:  58%|█████▊    | 21.0M/36.2M [00:11<00:08, 1.98MB/s]f93498b8069500b66048e00f90c84fb6.nc:  61%|██████    | 22.0M/36.2M [00:12<00:07, 2.00MB/s]f93498b8069500b66048e00f90c84fb6.nc:  63%|██████▎   | 23.0M/36.2M [00:12<00:06, 2.09MB/s]f93498b8069500b66048e00f90c84fb6.nc:  66%|██████▌   | 24.0M/36.2M [00:13<00:05, 2.18MB/s]f93498b8069500b66048e00f90c84fb6.nc:  69%|██████▉   | 25.0M/36.2M [00:13<00:05, 2.14MB/s]f93498b8069500b66048e00f90c84fb6.nc:  72%|███████▏  | 26.0M/36.2M [00:14<00:05, 2.13MB/s]f93498b8069500b66048e00f90c84fb6.nc:  75%|███████▍  | 27.0M/36.2M [00:14<00:04, 2.30MB/s]f93498b8069500b66048e00f90c84fb6.nc:  77%|███████▋  | 28.0M/36.2M [00:14<00:03, 2.22MB/s]f93498b8069500b66048e00f90c84fb6.nc:  80%|████████  | 29.0M/36.2M [00:15<00:03, 2.38MB/s]f93498b8069500b66048e00f90c84fb6.nc:  83%|████████▎ | 30.0M/36.2M [00:15<00:02, 2.28MB/s]f93498b8069500b66048e00f90c84fb6.nc:  86%|████████▌ | 31.0M/36.2M [00:16<00:02, 2.29MB/s]f93498b8069500b66048e00f90c84fb6.nc:  88%|████████▊ | 32.0M/36.2M [00:16<00:01, 2.35MB/s]f93498b8069500b66048e00f90c84fb6.nc:  91%|█████████ | 33.0M/36.2M [00:17<00:01, 2.26MB/s]f93498b8069500b66048e00f90c84fb6.nc:  94%|█████████▍| 34.0M/36.2M [00:17<00:00, 2.41MB/s]f93498b8069500b66048e00f90c84fb6.nc:  97%|█████████▋| 35.0M/36.2M [00:18<00:00, 2.27MB/s]f93498b8069500b66048e00f90c84fb6.nc:  99%|█████████▉| 36.0M/36.2M [00:18<00:00, 2.31MB/s]                                                                                         ---------------------
+Get 1964 data
+---------------------
+2025-04-26 13:54:15,123 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 13:54:15,124 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 13:54:15,897 INFO Request ID is 887838c2-0578-416e-8d41-6aeaa47862c3
+2025-04-26 13:54:16,179 INFO status has been updated to accepted
+2025-04-26 15:05:05,388 INFO status has been updated to running
+2025-04-26 15:07:06,292 INFO status has been updated to successful
+931dc058fc281435ba1c5c8a7849537d.nc:   0%|          | 0.00/36.4M [00:00<?, ?B/s]931dc058fc281435ba1c5c8a7849537d.nc:   3%|▎         | 1.00M/36.4M [00:01<00:57, 645kB/s]931dc058fc281435ba1c5c8a7849537d.nc:   6%|▌         | 2.00M/36.4M [00:01<00:26, 1.35MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  11%|█         | 4.00M/36.4M [00:01<00:11, 3.03MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  17%|█▋        | 6.00M/36.4M [00:02<00:06, 4.68MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  25%|██▍       | 9.00M/36.4M [00:02<00:03, 7.41MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  33%|███▎      | 12.0M/36.4M [00:02<00:02, 9.75MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  41%|████▏     | 15.0M/36.4M [00:02<00:02, 9.41MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  50%|████▉     | 18.0M/36.4M [00:03<00:01, 11.2MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  55%|█████▌    | 20.0M/36.4M [00:03<00:01, 11.3MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  61%|██████    | 22.0M/36.4M [00:03<00:01, 11.4MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  66%|██████▌   | 24.0M/36.4M [00:03<00:01, 11.7MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  74%|███████▍  | 27.0M/36.4M [00:03<00:00, 13.2MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  80%|███████▉  | 29.0M/36.4M [00:03<00:00, 12.9MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  85%|████████▌ | 31.0M/36.4M [00:04<00:00, 9.75MB/s]931dc058fc281435ba1c5c8a7849537d.nc:  94%|█████████▎| 34.0M/36.4M [00:04<00:00, 11.6MB/s]                                                                                         ---------------------
+Get 1965 data
+---------------------
+2025-04-26 15:07:12,986 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 15:07:12,986 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 15:07:13,843 INFO Request ID is db5f159e-fe35-41eb-baa7-d0f7e74aaafd
+2025-04-26 15:07:14,261 INFO status has been updated to accepted
+2025-04-26 16:30:07,873 INFO status has been updated to running
+2025-04-26 16:32:08,541 INFO status has been updated to successful
+d5e7ee72ef4ae1fc4fe4c534680d277c.nc:   0%|          | 0.00/35.8M [00:00<?, ?B/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:   3%|▎         | 1.00M/35.8M [00:01<00:56, 647kB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:   6%|▌         | 2.00M/35.8M [00:01<00:26, 1.36MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:   8%|▊         | 3.00M/35.8M [00:01<00:15, 2.22MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  11%|█         | 4.00M/35.8M [00:02<00:11, 2.80MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  20%|█▉        | 7.00M/35.8M [00:02<00:05, 5.92MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  25%|██▌       | 9.00M/35.8M [00:02<00:03, 7.32MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  31%|███       | 11.0M/35.8M [00:02<00:03, 8.58MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  39%|███▉      | 14.0M/35.8M [00:02<00:02, 11.0MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  48%|████▊     | 17.0M/35.8M [00:04<00:05, 3.37MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  50%|█████     | 18.0M/35.8M [00:05<00:05, 3.31MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  53%|█████▎    | 19.0M/35.8M [00:05<00:04, 3.60MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  56%|█████▌    | 20.0M/35.8M [00:05<00:04, 3.93MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  61%|██████▏   | 22.0M/35.8M [00:05<00:02, 5.24MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  67%|██████▋   | 24.0M/35.8M [00:05<00:02, 6.12MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  75%|███████▌  | 27.0M/35.8M [00:06<00:01, 8.46MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  81%|████████  | 29.0M/35.8M [00:06<00:00, 9.23MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  87%|████████▋ | 31.0M/35.8M [00:09<00:02, 1.86MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  89%|████████▉ | 32.0M/35.8M [00:09<00:01, 1.99MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  92%|█████████▏| 33.0M/35.8M [00:10<00:01, 2.29MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  95%|█████████▌| 34.0M/35.8M [00:10<00:00, 2.66MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc:  98%|█████████▊| 35.0M/35.8M [00:12<00:00, 1.16MB/s]d5e7ee72ef4ae1fc4fe4c534680d277c.nc: 100%|██████████| 35.8M/35.8M [00:13<00:00, 1.11MB/s]                                                                                         ---------------------
+Get 1966 data
+---------------------
+2025-04-26 16:32:24,365 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 16:32:24,365 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 16:32:25,272 INFO Request ID is 3d50f423-be6c-4751-92b3-169b6f536932
+2025-04-26 16:32:25,486 INFO status has been updated to accepted
+2025-04-26 17:17:01,169 INFO status has been updated to running
+2025-04-26 17:19:01,840 INFO status has been updated to successful
+105fabac0865350af77c2f83c7b0cb8d.nc:   0%|          | 0.00/35.9M [00:00<?, ?B/s]105fabac0865350af77c2f83c7b0cb8d.nc:   3%|▎         | 1.00M/35.9M [00:01<00:55, 656kB/s]105fabac0865350af77c2f83c7b0cb8d.nc:   6%|▌         | 2.00M/35.9M [00:01<00:25, 1.38MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  11%|█         | 4.00M/35.9M [00:01<00:10, 3.08MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  20%|█▉        | 7.00M/35.9M [00:02<00:05, 5.85MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  25%|██▌       | 9.00M/35.9M [00:02<00:04, 5.88MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  33%|███▎      | 12.0M/35.9M [00:02<00:03, 8.19MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  39%|███▉      | 14.0M/35.9M [00:05<00:09, 2.40MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  45%|████▍     | 16.0M/35.9M [00:05<00:06, 3.13MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  53%|█████▎    | 19.0M/35.9M [00:05<00:03, 4.58MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  61%|██████▏   | 22.0M/35.9M [00:05<00:02, 6.20MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  70%|██████▉   | 25.0M/35.9M [00:05<00:01, 7.92MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  75%|███████▌  | 27.0M/35.9M [00:08<00:03, 2.71MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  81%|████████  | 29.0M/35.9M [00:08<00:02, 3.37MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  86%|████████▋ | 31.0M/35.9M [00:08<00:01, 4.18MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  92%|█████████▏| 33.0M/35.9M [00:08<00:00, 5.11MB/s]105fabac0865350af77c2f83c7b0cb8d.nc:  98%|█████████▊| 35.0M/35.9M [00:08<00:00, 6.13MB/s]                                                                                         ---------------------
+Get 1967 data
+---------------------
+2025-04-26 17:19:12,800 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 17:19:12,800 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 17:19:13,803 INFO Request ID is 7b2c0e4d-9401-45d9-a199-603fd1c480d2
+2025-04-26 17:19:14,219 INFO status has been updated to accepted
+2025-04-26 17:57:46,370 INFO status has been updated to running
+2025-04-26 17:59:47,064 INFO status has been updated to successful
+9a94b29d5eb0b7ad04d03b420667d9de.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:   3%|▎         | 1.00M/36.1M [00:01<00:56, 657kB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:   6%|▌         | 2.00M/36.1M [00:01<00:25, 1.38MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  11%|█         | 4.00M/36.1M [00:01<00:10, 3.08MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  19%|█▉        | 7.00M/36.1M [00:02<00:05, 5.85MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  28%|██▊       | 10.0M/36.1M [00:02<00:03, 6.95MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  36%|███▌      | 13.0M/36.1M [00:02<00:02, 9.03MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  42%|████▏     | 15.0M/36.1M [00:02<00:02, 9.69MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  47%|████▋     | 17.0M/36.1M [00:03<00:02, 8.30MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  53%|█████▎    | 19.0M/36.1M [00:03<00:01, 9.11MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  58%|█████▊    | 21.0M/36.1M [00:03<00:01, 9.77MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  66%|██████▋   | 24.0M/36.1M [00:04<00:01, 7.87MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  75%|███████▍  | 27.0M/36.1M [00:04<00:00, 9.78MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  80%|████████  | 29.0M/36.1M [00:04<00:00, 10.2MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  86%|████████▌ | 31.0M/36.1M [00:04<00:00, 10.6MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc:  91%|█████████▏| 33.0M/36.1M [00:04<00:00, 8.77MB/s]9a94b29d5eb0b7ad04d03b420667d9de.nc: 100%|█████████▉| 36.0M/36.1M [00:05<00:00, 10.7MB/s]                                                                                         ---------------------
+Get 1968 data
+---------------------
+2025-04-26 17:59:54,635 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 17:59:54,635 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 17:59:55,595 INFO Request ID is bafd344b-dce8-4f98-9a02-b40548a06a0f
+2025-04-26 17:59:55,804 INFO status has been updated to accepted
+2025-04-26 18:32:26,933 INFO status has been updated to running
+2025-04-26 18:34:27,625 INFO status has been updated to successful
+7a511db26a782dedac87ed2bc2483655.nc:   0%|          | 0.00/36.8M [00:00<?, ?B/s]7a511db26a782dedac87ed2bc2483655.nc:   3%|▎         | 1.00M/36.8M [00:01<00:59, 627kB/s]7a511db26a782dedac87ed2bc2483655.nc:   5%|▌         | 2.00M/36.8M [00:01<00:27, 1.32MB/s]7a511db26a782dedac87ed2bc2483655.nc:   8%|▊         | 3.00M/36.8M [00:01<00:16, 2.14MB/s]7a511db26a782dedac87ed2bc2483655.nc:  14%|█▎        | 5.00M/36.8M [00:02<00:10, 3.16MB/s]7a511db26a782dedac87ed2bc2483655.nc:  16%|█▋        | 6.00M/36.8M [00:02<00:08, 3.64MB/s]7a511db26a782dedac87ed2bc2483655.nc:  19%|█▉        | 7.00M/36.8M [00:02<00:07, 4.09MB/s]7a511db26a782dedac87ed2bc2483655.nc:  22%|██▏       | 8.00M/36.8M [00:02<00:06, 4.50MB/s]7a511db26a782dedac87ed2bc2483655.nc:  24%|██▍       | 9.00M/36.8M [00:06<00:31, 936kB/s] 7a511db26a782dedac87ed2bc2483655.nc:  27%|██▋       | 10.0M/36.8M [00:06<00:26, 1.05MB/s]7a511db26a782dedac87ed2bc2483655.nc:  30%|██▉       | 11.0M/36.8M [00:07<00:20, 1.30MB/s]7a511db26a782dedac87ed2bc2483655.nc:  33%|███▎      | 12.0M/36.8M [00:07<00:15, 1.69MB/s]7a511db26a782dedac87ed2bc2483655.nc:  38%|███▊      | 14.0M/36.8M [00:07<00:08, 2.79MB/s]7a511db26a782dedac87ed2bc2483655.nc:  44%|████▎     | 16.0M/36.8M [00:07<00:05, 4.00MB/s]7a511db26a782dedac87ed2bc2483655.nc:  49%|████▉     | 18.0M/36.8M [00:07<00:03, 5.26MB/s]7a511db26a782dedac87ed2bc2483655.nc:  54%|█████▍    | 20.0M/36.8M [00:08<00:02, 6.48MB/s]7a511db26a782dedac87ed2bc2483655.nc:  60%|█████▉    | 22.0M/36.8M [00:08<00:01, 8.37MB/s]7a511db26a782dedac87ed2bc2483655.nc:  68%|██████▊   | 25.0M/36.8M [00:08<00:01, 9.53MB/s]7a511db26a782dedac87ed2bc2483655.nc:  73%|███████▎  | 27.0M/36.8M [00:08<00:01, 10.1MB/s]7a511db26a782dedac87ed2bc2483655.nc:  79%|███████▉  | 29.0M/36.8M [00:08<00:00, 10.5MB/s]7a511db26a782dedac87ed2bc2483655.nc:  84%|████████▍ | 31.0M/36.8M [00:09<00:00, 11.0MB/s]7a511db26a782dedac87ed2bc2483655.nc:  92%|█████████▏| 34.0M/36.8M [00:09<00:00, 12.6MB/s]7a511db26a782dedac87ed2bc2483655.nc:  98%|█████████▊| 36.0M/36.8M [00:09<00:00, 12.4MB/s]                                                                                         ---------------------
+Get 1969 data
+---------------------
+2025-04-26 18:34:39,263 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 18:34:39,263 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 18:34:40,402 INFO Request ID is 2f247cdb-0ff4-44c7-9585-01ead5f39cfa
+2025-04-26 18:34:40,621 INFO status has been updated to accepted
+2025-04-26 19:07:11,445 INFO status has been updated to running
+2025-04-26 19:09:12,103 INFO status has been updated to successful
+74e21770446ffc20f55342ceb967acc4.nc:   0%|          | 0.00/35.9M [00:00<?, ?B/s]74e21770446ffc20f55342ceb967acc4.nc:   3%|▎         | 1.00M/35.9M [00:01<00:59, 620kB/s]74e21770446ffc20f55342ceb967acc4.nc:   6%|▌         | 2.00M/35.9M [00:01<00:27, 1.31MB/s]74e21770446ffc20f55342ceb967acc4.nc:  11%|█         | 4.00M/35.9M [00:02<00:11, 2.96MB/s]74e21770446ffc20f55342ceb967acc4.nc:  19%|█▉        | 7.00M/35.9M [00:02<00:06, 4.34MB/s]74e21770446ffc20f55342ceb967acc4.nc:  28%|██▊       | 10.0M/35.9M [00:03<00:05, 4.90MB/s]74e21770446ffc20f55342ceb967acc4.nc:  36%|███▌      | 13.0M/35.9M [00:03<00:03, 6.83MB/s]74e21770446ffc20f55342ceb967acc4.nc:  42%|████▏     | 15.0M/35.9M [00:03<00:02, 7.68MB/s]74e21770446ffc20f55342ceb967acc4.nc:  47%|████▋     | 17.0M/35.9M [00:03<00:02, 7.62MB/s]74e21770446ffc20f55342ceb967acc4.nc:  56%|█████▌    | 20.0M/35.9M [00:03<00:01, 9.64MB/s]74e21770446ffc20f55342ceb967acc4.nc:  61%|██████    | 22.0M/35.9M [00:04<00:02, 6.97MB/s]74e21770446ffc20f55342ceb967acc4.nc:  70%|██████▉   | 25.0M/35.9M [00:04<00:01, 8.85MB/s]74e21770446ffc20f55342ceb967acc4.nc:  75%|███████▌  | 27.0M/35.9M [00:08<00:05, 1.81MB/s]74e21770446ffc20f55342ceb967acc4.nc:  78%|███████▊  | 28.0M/35.9M [00:08<00:04, 2.02MB/s]74e21770446ffc20f55342ceb967acc4.nc:  83%|████████▎ | 30.0M/35.9M [00:08<00:02, 2.70MB/s]74e21770446ffc20f55342ceb967acc4.nc:  86%|████████▌ | 31.0M/35.9M [00:08<00:01, 2.99MB/s]74e21770446ffc20f55342ceb967acc4.nc:  89%|████████▉ | 32.0M/35.9M [00:09<00:01, 3.33MB/s]74e21770446ffc20f55342ceb967acc4.nc:  92%|█████████▏| 33.0M/35.9M [00:09<00:00, 3.69MB/s]74e21770446ffc20f55342ceb967acc4.nc:  95%|█████████▍| 34.0M/35.9M [00:12<00:01, 1.09MB/s]74e21770446ffc20f55342ceb967acc4.nc:  97%|█████████▋| 35.0M/35.9M [00:12<00:00, 1.38MB/s]74e21770446ffc20f55342ceb967acc4.nc: 100%|██████████| 35.9M/35.9M [00:12<00:00, 1.71MB/s]                                                                                         ---------------------
+Get 1970 data
+---------------------
+2025-04-26 19:09:27,043 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 19:09:27,043 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 19:09:27,900 INFO Request ID is befa9997-81be-4bbb-8060-7cb767d3c856
+2025-04-26 19:09:28,123 INFO status has been updated to accepted
+Recovering from HTTP error [502 Bad Gateway], attemps 1 of 500
+Retrying in 120 seconds
+2025-04-26 19:40:03,491 INFO status has been updated to running
+2025-04-26 19:42:04,130 INFO status has been updated to successful
+c6a5237c5d598449de524e7aee17d091.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]c6a5237c5d598449de524e7aee17d091.nc:   3%|▎         | 1.00M/36.1M [00:01<00:55, 657kB/s]c6a5237c5d598449de524e7aee17d091.nc:   6%|▌         | 2.00M/36.1M [00:01<00:25, 1.38MB/s]c6a5237c5d598449de524e7aee17d091.nc:  11%|█         | 4.00M/36.1M [00:01<00:10, 3.09MB/s]c6a5237c5d598449de524e7aee17d091.nc:  19%|█▉        | 7.00M/36.1M [00:02<00:05, 5.86MB/s]c6a5237c5d598449de524e7aee17d091.nc:  28%|██▊       | 10.0M/36.1M [00:02<00:03, 8.10MB/s]c6a5237c5d598449de524e7aee17d091.nc:  36%|███▌      | 13.0M/36.1M [00:02<00:02, 10.3MB/s]c6a5237c5d598449de524e7aee17d091.nc:  44%|████▍     | 16.0M/36.1M [00:02<00:01, 12.1MB/s]c6a5237c5d598449de524e7aee17d091.nc:  50%|████▉     | 18.0M/36.1M [00:02<00:01, 12.8MB/s]c6a5237c5d598449de524e7aee17d091.nc:  58%|█████▊    | 21.0M/36.1M [00:03<00:01, 14.2MB/s]c6a5237c5d598449de524e7aee17d091.nc:  66%|██████▋   | 24.0M/36.1M [00:03<00:00, 15.1MB/s]c6a5237c5d598449de524e7aee17d091.nc:  75%|███████▍  | 27.0M/36.1M [00:03<00:00, 15.9MB/s]c6a5237c5d598449de524e7aee17d091.nc:  83%|████████▎ | 30.0M/36.1M [00:03<00:00, 16.4MB/s]c6a5237c5d598449de524e7aee17d091.nc:  91%|█████████▏| 33.0M/36.1M [00:03<00:00, 16.8MB/s]c6a5237c5d598449de524e7aee17d091.nc:  97%|█████████▋| 35.0M/36.1M [00:03<00:00, 13.6MB/s]                                                                                         ---------------------
+Get 1971 data
+---------------------
+2025-04-26 19:42:10,229 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 19:42:10,229 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 19:42:11,117 INFO Request ID is 80f09543-8924-4c8c-a746-fb9e739cf1b9
+2025-04-26 19:42:11,363 INFO status has been updated to accepted
+2025-04-26 20:22:49,877 INFO status has been updated to running
+2025-04-26 20:24:50,487 INFO status has been updated to successful
+20b55874b16f7b75cc493b72ed9772f7.nc:   0%|          | 0.00/39.6M [00:00<?, ?B/s]20b55874b16f7b75cc493b72ed9772f7.nc:   3%|▎         | 1.00M/39.6M [00:01<01:03, 637kB/s]20b55874b16f7b75cc493b72ed9772f7.nc:   5%|▌         | 2.00M/39.6M [00:01<00:29, 1.34MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:   8%|▊         | 3.00M/39.6M [00:01<00:17, 2.18MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  13%|█▎        | 5.00M/39.6M [00:04<00:29, 1.22MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  15%|█▌        | 6.00M/39.6M [00:04<00:22, 1.58MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  18%|█▊        | 7.00M/39.6M [00:04<00:17, 2.01MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  25%|██▌       | 10.0M/39.6M [00:04<00:07, 3.96MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  33%|███▎      | 13.0M/39.6M [00:04<00:04, 6.03MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  40%|████      | 16.0M/39.6M [00:05<00:03, 8.07MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  45%|████▌     | 18.0M/39.6M [00:05<00:03, 6.71MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  51%|█████     | 20.0M/39.6M [00:05<00:02, 7.67MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  56%|█████▌    | 22.0M/39.6M [00:08<00:08, 2.11MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  58%|█████▊    | 23.0M/39.6M [00:09<00:08, 2.09MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  61%|██████    | 24.0M/39.6M [00:09<00:06, 2.38MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  63%|██████▎   | 25.0M/39.6M [00:09<00:05, 2.75MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  68%|██████▊   | 27.0M/39.6M [00:09<00:03, 3.88MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  73%|███████▎  | 29.0M/39.6M [00:09<00:02, 5.07MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  76%|███████▌  | 30.0M/39.6M [00:09<00:01, 5.27MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  81%|████████  | 32.0M/39.6M [00:10<00:01, 6.58MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  86%|████████▌ | 34.0M/39.6M [00:10<00:00, 7.73MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  88%|████████▊ | 35.0M/39.6M [00:10<00:00, 7.40MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  94%|█████████▎| 37.0M/39.6M [00:10<00:00, 8.51MB/s]20b55874b16f7b75cc493b72ed9772f7.nc:  96%|█████████▌| 38.0M/39.6M [00:11<00:00, 6.25MB/s]                                                                                         ---------------------
+Get 1972 data
+---------------------
+2025-04-26 20:25:03,663 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 20:25:03,663 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 20:25:04,702 INFO Request ID is d782ce1b-030b-4c5e-ba3e-b20f5eb7f954
+2025-04-26 20:25:05,130 INFO status has been updated to accepted
+2025-04-26 21:15:44,514 INFO status has been updated to running
+2025-04-26 21:17:45,448 INFO status has been updated to successful
+5ea4279ff28c9ab7ab7adcd82f3451f8.nc:   0%|          | 0.00/36.6M [00:00<?, ?B/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:   3%|▎         | 1.00M/36.6M [00:01<00:59, 628kB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:   5%|▌         | 2.00M/36.6M [00:01<00:27, 1.32MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:   8%|▊         | 3.00M/36.6M [00:01<00:16, 2.12MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  16%|█▋        | 6.00M/36.6M [00:02<00:06, 4.88MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  25%|██▍       | 9.00M/36.6M [00:02<00:05, 5.52MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  33%|███▎      | 12.0M/36.6M [00:02<00:03, 7.61MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  38%|███▊      | 14.0M/36.6M [00:03<00:02, 8.42MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  46%|████▋     | 17.0M/36.6M [00:03<00:01, 10.5MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  52%|█████▏    | 19.0M/36.6M [00:03<00:01, 10.8MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  60%|██████    | 22.0M/36.6M [00:03<00:01, 12.5MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  68%|██████▊   | 25.0M/36.6M [00:03<00:00, 13.8MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  74%|███████▎  | 27.0M/36.6M [00:06<00:03, 2.93MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  79%|███████▉  | 29.0M/36.6M [00:06<00:02, 3.64MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  85%|████████▍ | 31.0M/36.6M [00:06<00:01, 4.48MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  90%|█████████ | 33.0M/36.6M [00:06<00:00, 4.78MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc:  96%|█████████▌| 35.0M/36.6M [00:07<00:00, 5.76MB/s]5ea4279ff28c9ab7ab7adcd82f3451f8.nc: 100%|██████████| 36.6M/36.6M [00:07<00:00, 6.41MB/s]                                                                                         ---------------------
+Get 1973 data
+---------------------
+2025-04-26 21:17:54,957 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 21:17:54,957 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 21:17:56,512 INFO Request ID is e2b3dbf3-2592-4f92-8166-1f16e94d706a
+2025-04-26 21:17:56,718 INFO status has been updated to accepted
+2025-04-26 22:18:38,119 INFO status has been updated to successful
+f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:   0%|          | 0.00/35.9M [00:00<?, ?B/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:   3%|▎         | 1.00M/35.9M [00:01<00:55, 655kB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:   6%|▌         | 2.00M/35.9M [00:01<00:25, 1.38MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  11%|█         | 4.00M/35.9M [00:01<00:10, 3.11MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  14%|█▍        | 5.00M/35.9M [00:02<00:10, 3.10MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  22%|██▏       | 8.00M/35.9M [00:02<00:05, 5.84MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  28%|██▊       | 10.0M/35.9M [00:02<00:03, 7.20MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  33%|███▎      | 12.0M/35.9M [00:02<00:03, 7.78MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  39%|███▉      | 14.0M/35.9M [00:03<00:02, 8.68MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  45%|████▍     | 16.0M/35.9M [00:03<00:01, 10.5MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  50%|█████     | 18.0M/35.9M [00:03<00:01, 12.0MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  56%|█████▌    | 20.0M/35.9M [00:03<00:01, 10.1MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  61%|██████    | 22.0M/35.9M [00:04<00:02, 6.95MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  70%|██████▉   | 25.0M/35.9M [00:04<00:01, 6.32MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  72%|███████▏  | 26.0M/35.9M [00:07<00:06, 1.73MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  75%|███████▌  | 27.0M/35.9M [00:08<00:05, 1.69MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  78%|███████▊  | 28.0M/35.9M [00:08<00:04, 1.99MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  81%|████████  | 29.0M/35.9M [00:08<00:03, 2.35MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  86%|████████▋ | 31.0M/35.9M [00:09<00:01, 2.82MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  89%|████████▉ | 32.0M/35.9M [00:12<00:03, 1.08MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  92%|█████████▏| 33.0M/35.9M [00:13<00:02, 1.06MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  95%|█████████▍| 34.0M/35.9M [00:13<00:01, 1.28MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc:  97%|█████████▋| 35.0M/35.9M [00:13<00:00, 1.61MB/s]f5ba08c0bc2f71f7b8f05e5bf9e03f9c.nc: 100%|██████████| 35.9M/35.9M [00:13<00:00, 1.98MB/s]                                                                                         ---------------------
+Get 1974 data
+---------------------
+2025-04-26 22:18:54,286 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 22:18:54,286 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 22:18:55,346 INFO Request ID is 74cea26a-b35e-4430-a650-0554e2dacf52
+2025-04-26 22:18:55,551 INFO status has been updated to accepted
+Recovering from HTTP error [500 Internal Server Error], attemps 1 of 500
+Retrying in 120 seconds
+2025-04-26 23:24:04,046 INFO status has been updated to running
+2025-04-26 23:26:04,712 INFO status has been updated to successful
+4f39cd21c5f78293654223ffc0f4d825.nc:   0%|          | 0.00/36.7M [00:00<?, ?B/s]4f39cd21c5f78293654223ffc0f4d825.nc:   3%|▎         | 1.00M/36.7M [00:01<00:59, 628kB/s]4f39cd21c5f78293654223ffc0f4d825.nc:   5%|▌         | 2.00M/36.7M [00:01<00:27, 1.32MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:   8%|▊         | 3.00M/36.7M [00:01<00:16, 2.12MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  16%|█▋        | 6.00M/36.7M [00:06<00:37, 860kB/s] 4f39cd21c5f78293654223ffc0f4d825.nc:  19%|█▉        | 7.00M/36.7M [00:06<00:28, 1.08MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  22%|██▏       | 8.00M/36.7M [00:07<00:22, 1.37MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  30%|██▉       | 11.0M/36.7M [00:07<00:10, 2.63MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  38%|███▊      | 14.0M/36.7M [00:07<00:05, 4.13MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  46%|████▋     | 17.0M/36.7M [00:07<00:03, 5.81MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  54%|█████▍    | 20.0M/36.7M [00:07<00:02, 7.58MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  63%|██████▎   | 23.0M/36.7M [00:08<00:01, 9.34MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  71%|███████   | 26.0M/36.7M [00:08<00:01, 11.0MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  76%|███████▌  | 28.0M/36.7M [00:08<00:01, 7.06MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  82%|████████▏ | 30.0M/36.7M [00:10<00:02, 3.47MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  84%|████████▍ | 31.0M/36.7M [00:11<00:02, 2.35MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  87%|████████▋ | 32.0M/36.7M [00:12<00:02, 2.26MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  90%|████████▉ | 33.0M/36.7M [00:12<00:01, 2.37MB/s]4f39cd21c5f78293654223ffc0f4d825.nc:  95%|█████████▌| 35.0M/36.7M [00:12<00:00, 3.35MB/s]4f39cd21c5f78293654223ffc0f4d825.nc: 100%|██████████| 36.7M/36.7M [00:12<00:00, 4.25MB/s]                                                                                         ---------------------
+Get 1975 data
+---------------------
+2025-04-26 23:26:19,907 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-26 23:26:19,907 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-26 23:26:21,240 INFO Request ID is 8b364042-2fd2-4872-a2d3-24a2ec6f4787
+2025-04-26 23:26:21,454 INFO status has been updated to accepted
+2025-04-27 00:39:18,300 INFO status has been updated to running
+2025-04-27 00:41:19,020 INFO status has been updated to successful
+7bfb6a5d295d705c5d6aacf929f7898.nc:   0%|          | 0.00/36.5M [00:00<?, ?B/s]7bfb6a5d295d705c5d6aacf929f7898.nc:   3%|▎         | 1.00M/36.5M [00:01<00:55, 667kB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:   5%|▌         | 2.00M/36.5M [00:01<00:25, 1.40MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:   8%|▊         | 3.00M/36.5M [00:03<00:39, 879kB/s] 7bfb6a5d295d705c5d6aacf929f7898.nc:  14%|█▎        | 5.00M/36.5M [00:04<00:28, 1.15MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  16%|█▋        | 6.00M/36.5M [00:05<00:21, 1.50MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  22%|██▏       | 8.00M/36.5M [00:05<00:12, 2.48MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  27%|██▋       | 10.0M/36.5M [00:05<00:07, 3.61MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  36%|███▌      | 13.0M/36.5M [00:05<00:04, 5.68MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  41%|████      | 15.0M/36.5M [00:05<00:03, 6.82MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  49%|████▉     | 18.0M/36.5M [00:05<00:02, 9.02MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  58%|█████▊    | 21.0M/36.5M [00:07<00:03, 4.56MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  60%|██████    | 22.0M/36.5M [00:08<00:05, 3.01MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  63%|██████▎   | 23.0M/36.5M [00:08<00:04, 3.29MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  66%|██████▌   | 24.0M/36.5M [00:08<00:03, 3.63MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  71%|███████▏  | 26.0M/36.5M [00:08<00:02, 4.87MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  79%|███████▉  | 29.0M/36.5M [00:08<00:01, 7.10MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  85%|████████▍ | 31.0M/36.5M [00:09<00:00, 8.12MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  93%|█████████▎| 34.0M/36.5M [00:12<00:01, 2.25MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  96%|█████████▌| 35.0M/36.5M [00:12<00:00, 1.99MB/s]7bfb6a5d295d705c5d6aacf929f7898.nc:  99%|█████████▊| 36.0M/36.5M [00:13<00:00, 2.12MB/s]                                                                                        ---------------------
+Get 1976 data
+---------------------
+2025-04-27 00:41:34,596 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 00:41:34,597 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 00:41:35,375 INFO Request ID is eb150216-f4e1-4b9f-ad49-a30fa6004281
+2025-04-27 00:41:35,604 INFO status has been updated to accepted
+2025-04-27 02:39:05,171 INFO status has been updated to successful
+c5f48df2fb8669867f6ebf500b47742d.nc:   0%|          | 0.00/36.9M [00:00<?, ?B/s]c5f48df2fb8669867f6ebf500b47742d.nc:   3%|▎         | 1.00M/36.9M [00:01<01:01, 617kB/s]c5f48df2fb8669867f6ebf500b47742d.nc:   5%|▌         | 2.00M/36.9M [00:01<00:28, 1.30MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  11%|█         | 4.00M/36.9M [00:02<00:13, 2.56MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  19%|█▉        | 7.00M/36.9M [00:02<00:08, 3.81MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  27%|██▋       | 10.0M/36.9M [00:02<00:04, 5.88MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  32%|███▏      | 12.0M/36.9M [00:03<00:03, 6.91MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  38%|███▊      | 14.0M/36.9M [00:03<00:03, 7.92MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  43%|████▎     | 16.0M/36.9M [00:03<00:03, 7.19MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  46%|████▌     | 17.0M/36.9M [00:03<00:02, 6.98MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  49%|████▊     | 18.0M/36.9M [00:04<00:03, 5.96MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  51%|█████▏    | 19.0M/36.9M [00:04<00:03, 5.46MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  54%|█████▍    | 20.0M/36.9M [00:04<00:03, 5.55MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  57%|█████▋    | 21.0M/36.9M [00:04<00:02, 5.66MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  60%|█████▉    | 22.0M/36.9M [00:04<00:02, 5.74MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  62%|██████▏   | 23.0M/36.9M [00:05<00:02, 5.83MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  65%|██████▍   | 24.0M/36.9M [00:05<00:02, 6.59MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  68%|██████▊   | 25.0M/36.9M [00:05<00:01, 6.41MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  70%|███████   | 26.0M/36.9M [00:05<00:01, 6.28MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  73%|███████▎  | 27.0M/36.9M [00:05<00:02, 4.73MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  79%|███████▊  | 29.0M/36.9M [00:06<00:01, 5.88MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  81%|████████  | 30.0M/36.9M [00:06<00:01, 5.85MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  84%|████████▍ | 31.0M/36.9M [00:06<00:01, 5.85MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  87%|████████▋ | 32.0M/36.9M [00:06<00:01, 5.17MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  89%|████████▉ | 33.0M/36.9M [00:06<00:00, 4.82MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  92%|█████████▏| 34.0M/36.9M [00:07<00:00, 5.07MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  95%|█████████▍| 35.0M/36.9M [00:07<00:00, 5.28MB/s]c5f48df2fb8669867f6ebf500b47742d.nc:  97%|█████████▋| 36.0M/36.9M [00:07<00:00, 5.43MB/s]c5f48df2fb8669867f6ebf500b47742d.nc: 100%|██████████| 36.9M/36.9M [00:07<00:00, 5.45MB/s]                                                                                         ---------------------
+Get 1977 data
+---------------------
+2025-04-27 02:39:14,917 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 02:39:14,917 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 02:39:16,158 INFO Request ID is 241efed0-6fcd-4b89-8eb9-1dfc24d01f2d
+2025-04-27 02:39:16,377 INFO status has been updated to accepted
+Recovering from connection error [('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))], attemps 1 of 500
+Retrying in 120 seconds
+2025-04-27 05:08:30,666 INFO status has been updated to running
+2025-04-27 05:10:31,428 INFO status has been updated to successful
+2eb41fb9269dc3f14968b39a81fe9a1.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:   3%|▎         | 1.00M/36.2M [00:01<00:59, 617kB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:   6%|▌         | 2.00M/36.2M [00:01<00:27, 1.30MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:   8%|▊         | 3.00M/36.2M [00:02<00:19, 1.75MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  17%|█▋        | 6.00M/36.2M [00:02<00:07, 4.28MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  22%|██▏       | 8.00M/36.2M [00:02<00:05, 5.74MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  28%|██▊       | 10.0M/36.2M [00:02<00:03, 7.01MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  33%|███▎      | 12.0M/36.2M [00:02<00:02, 8.62MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  39%|███▊      | 14.0M/36.2M [00:03<00:02, 9.50MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  44%|████▍     | 16.0M/36.2M [00:03<00:02, 9.21MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  50%|████▉     | 18.0M/36.2M [00:03<00:02, 6.46MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  55%|█████▌    | 20.0M/36.2M [00:04<00:02, 7.57MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  58%|█████▊    | 21.0M/36.2M [00:04<00:03, 4.99MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  61%|██████    | 22.0M/36.2M [00:05<00:05, 2.71MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  64%|██████▎   | 23.0M/36.2M [00:06<00:05, 2.50MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  69%|██████▉   | 25.0M/36.2M [00:06<00:03, 3.22MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  72%|███████▏  | 26.0M/36.2M [00:07<00:03, 2.83MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  77%|███████▋  | 28.0M/36.2M [00:07<00:02, 3.39MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  80%|████████  | 29.0M/36.2M [00:07<00:02, 3.26MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  83%|████████▎ | 30.0M/36.2M [00:08<00:02, 2.94MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  86%|████████▌ | 31.0M/36.2M [00:08<00:01, 2.80MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  88%|████████▊ | 32.0M/36.2M [00:09<00:01, 2.51MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  91%|█████████ | 33.0M/36.2M [00:09<00:01, 2.35MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  94%|█████████▍| 34.0M/36.2M [00:10<00:00, 2.31MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  97%|█████████▋| 35.0M/36.2M [00:10<00:00, 2.35MB/s]2eb41fb9269dc3f14968b39a81fe9a1.nc:  99%|█████████▉| 36.0M/36.2M [00:11<00:00, 1.98MB/s]                                                                                        ---------------------
+Get 1978 data
+---------------------
+2025-04-27 05:10:44,888 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 05:10:44,888 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 05:10:45,781 INFO Request ID is 985edc07-7a9e-4b05-8484-06858ce0204e
+2025-04-27 05:10:46,067 INFO status has been updated to accepted
+Recovering from connection error [('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))], attemps 1 of 500
+Retrying in 120 seconds
+Recovering from connection error [('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))], attemps 1 of 500
+Retrying in 120 seconds
+2025-04-27 08:08:19,275 INFO status has been updated to running
+2025-04-27 08:10:19,991 INFO status has been updated to successful
+da80886e65db2bbb81000faaf680d202.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]da80886e65db2bbb81000faaf680d202.nc:   3%|▎         | 1.00M/36.2M [00:01<00:56, 649kB/s]da80886e65db2bbb81000faaf680d202.nc:   6%|▌         | 2.00M/36.2M [00:01<00:26, 1.37MB/s]da80886e65db2bbb81000faaf680d202.nc:  11%|█         | 4.00M/36.2M [00:01<00:10, 3.08MB/s]da80886e65db2bbb81000faaf680d202.nc:  19%|█▉        | 7.00M/36.2M [00:02<00:05, 5.87MB/s]da80886e65db2bbb81000faaf680d202.nc:  28%|██▊       | 10.0M/36.2M [00:02<00:03, 8.38MB/s]da80886e65db2bbb81000faaf680d202.nc:  36%|███▌      | 13.0M/36.2M [00:02<00:02, 10.6MB/s]da80886e65db2bbb81000faaf680d202.nc:  41%|████▏     | 15.0M/36.2M [00:02<00:01, 11.2MB/s]da80886e65db2bbb81000faaf680d202.nc:  47%|████▋     | 17.0M/36.2M [00:03<00:02, 7.99MB/s]da80886e65db2bbb81000faaf680d202.nc:  53%|█████▎    | 19.0M/36.2M [00:03<00:02, 8.76MB/s]da80886e65db2bbb81000faaf680d202.nc:  58%|█████▊    | 21.0M/36.2M [00:05<00:05, 2.80MB/s]da80886e65db2bbb81000faaf680d202.nc:  61%|██████    | 22.0M/36.2M [00:07<00:09, 1.50MB/s]da80886e65db2bbb81000faaf680d202.nc:  64%|██████▎   | 23.0M/36.2M [00:08<00:09, 1.51MB/s]da80886e65db2bbb81000faaf680d202.nc:  66%|██████▋   | 24.0M/36.2M [00:08<00:07, 1.69MB/s]da80886e65db2bbb81000faaf680d202.nc:  69%|██████▉   | 25.0M/36.2M [00:08<00:05, 2.08MB/s]da80886e65db2bbb81000faaf680d202.nc:  77%|███████▋  | 28.0M/36.2M [00:08<00:02, 3.75MB/s]da80886e65db2bbb81000faaf680d202.nc:  86%|████████▌ | 31.0M/36.2M [00:09<00:00, 5.61MB/s]da80886e65db2bbb81000faaf680d202.nc:  91%|█████████ | 33.0M/36.2M [00:13<00:02, 1.29MB/s]da80886e65db2bbb81000faaf680d202.nc:  97%|█████████▋| 35.0M/36.2M [00:14<00:00, 1.74MB/s]da80886e65db2bbb81000faaf680d202.nc: 100%|█████████▉| 36.0M/36.2M [00:14<00:00, 1.65MB/s]                                                                                         ---------------------
+Get 1979 data
+---------------------
+2025-04-27 08:10:36,974 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 08:10:36,974 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 08:10:37,875 INFO Request ID is 3240e4d5-aa7e-46cb-a51c-3e0f7faff967
+2025-04-27 08:10:38,070 INFO status has been updated to accepted
+2025-04-27 11:48:30,732 INFO status has been updated to running
+2025-04-27 11:50:31,358 INFO status has been updated to successful
+1ad7249f285620b96690156d68066f9e.nc:   0%|          | 0.00/30.6M [00:00<?, ?B/s]1ad7249f285620b96690156d68066f9e.nc:   3%|▎         | 1.00M/30.6M [00:01<00:49, 630kB/s]1ad7249f285620b96690156d68066f9e.nc:   7%|▋         | 2.00M/30.6M [00:01<00:22, 1.33MB/s]1ad7249f285620b96690156d68066f9e.nc:  10%|▉         | 3.00M/30.6M [00:01<00:13, 2.17MB/s]1ad7249f285620b96690156d68066f9e.nc:  13%|█▎        | 4.00M/30.6M [00:02<00:11, 2.42MB/s]1ad7249f285620b96690156d68066f9e.nc:  23%|██▎       | 7.00M/30.6M [00:02<00:04, 5.29MB/s]1ad7249f285620b96690156d68066f9e.nc:  29%|██▉       | 9.00M/30.6M [00:02<00:03, 6.66MB/s]1ad7249f285620b96690156d68066f9e.nc:  39%|███▉      | 12.0M/30.6M [00:02<00:02, 9.16MB/s]1ad7249f285620b96690156d68066f9e.nc:  46%|████▌     | 14.0M/30.6M [00:03<00:01, 10.0MB/s]1ad7249f285620b96690156d68066f9e.nc:  56%|█████▌    | 17.0M/30.6M [00:03<00:01, 12.0MB/s]1ad7249f285620b96690156d68066f9e.nc:  65%|██████▌   | 20.0M/30.6M [00:03<00:00, 13.5MB/s]1ad7249f285620b96690156d68066f9e.nc:  75%|███████▌  | 23.0M/30.6M [00:03<00:00, 14.6MB/s]1ad7249f285620b96690156d68066f9e.nc:  85%|████████▌ | 26.0M/30.6M [00:03<00:00, 15.5MB/s]1ad7249f285620b96690156d68066f9e.nc:  95%|█████████▍| 29.0M/30.6M [00:03<00:00, 16.1MB/s]                                                                                         ---------------------
+Get 1980 data
+---------------------
+2025-04-27 11:50:36,851 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 11:50:36,851 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 11:50:37,609 INFO Request ID is 6558a834-3a73-4b52-a6d8-9a0f72783296
+2025-04-27 11:50:37,834 INFO status has been updated to accepted
+2025-04-27 14:40:21,194 INFO status has been updated to running
+2025-04-27 14:42:21,853 INFO status has been updated to successful
+904574377de75b160be4f5819ac1f4d.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]904574377de75b160be4f5819ac1f4d.nc:   3%|▎         | 1.00M/36.2M [00:01<00:58, 634kB/s]904574377de75b160be4f5819ac1f4d.nc:   6%|▌         | 2.00M/36.2M [00:01<00:26, 1.34MB/s]904574377de75b160be4f5819ac1f4d.nc:  11%|█         | 4.00M/36.2M [00:02<00:11, 3.03MB/s]904574377de75b160be4f5819ac1f4d.nc:  19%|█▉        | 7.00M/36.2M [00:02<00:06, 4.40MB/s]904574377de75b160be4f5819ac1f4d.nc:  28%|██▊       | 10.0M/36.2M [00:02<00:04, 6.63MB/s]904574377de75b160be4f5819ac1f4d.nc:  33%|███▎      | 12.0M/36.2M [00:02<00:03, 7.66MB/s]904574377de75b160be4f5819ac1f4d.nc:  41%|████▏     | 15.0M/36.2M [00:03<00:02, 9.85MB/s]904574377de75b160be4f5819ac1f4d.nc:  47%|████▋     | 17.0M/36.2M [00:03<00:02, 8.40MB/s]904574377de75b160be4f5819ac1f4d.nc:  52%|█████▏    | 19.0M/36.2M [00:03<00:01, 9.91MB/s]904574377de75b160be4f5819ac1f4d.nc:  58%|█████▊    | 21.0M/36.2M [00:03<00:01, 10.3MB/s]904574377de75b160be4f5819ac1f4d.nc:  64%|██████▎   | 23.0M/36.2M [00:03<00:01, 8.56MB/s]904574377de75b160be4f5819ac1f4d.nc:  72%|███████▏  | 26.0M/36.2M [00:04<00:01, 10.6MB/s]904574377de75b160be4f5819ac1f4d.nc:  77%|███████▋  | 28.0M/36.2M [00:04<00:00, 10.9MB/s]904574377de75b160be4f5819ac1f4d.nc:  83%|████████▎ | 30.0M/36.2M [00:04<00:00, 11.2MB/s]904574377de75b160be4f5819ac1f4d.nc:  88%|████████▊ | 32.0M/36.2M [00:04<00:00, 11.4MB/s]904574377de75b160be4f5819ac1f4d.nc:  94%|█████████▍| 34.0M/36.2M [00:04<00:00, 11.6MB/s]904574377de75b160be4f5819ac1f4d.nc:  99%|█████████▉| 36.0M/36.2M [00:05<00:00, 5.72MB/s]                                                                                        ---------------------
+Get 1981 data
+---------------------
+2025-04-27 14:42:29,285 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 14:42:29,285 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 14:42:30,309 INFO Request ID is 9190a982-21d3-4a61-b01c-00e73d646d67
+2025-04-27 14:42:30,534 INFO status has been updated to accepted
+2025-04-27 17:05:48,696 INFO status has been updated to running
+2025-04-27 17:07:49,366 INFO status has been updated to successful
+29f3917a6a3ac665ded9b589b6789a17.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]29f3917a6a3ac665ded9b589b6789a17.nc:   3%|▎         | 1.00M/36.2M [00:01<00:57, 639kB/s]29f3917a6a3ac665ded9b589b6789a17.nc:   6%|▌         | 2.00M/36.2M [00:01<00:26, 1.35MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:   8%|▊         | 3.00M/36.2M [00:01<00:16, 2.17MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  14%|█▍        | 5.00M/36.2M [00:02<00:09, 3.38MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  22%|██▏       | 8.00M/36.2M [00:02<00:06, 4.43MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  30%|███       | 11.0M/36.2M [00:03<00:04, 6.29MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  36%|███▌      | 13.0M/36.2M [00:03<00:03, 7.30MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  44%|████▍     | 16.0M/36.2M [00:03<00:02, 9.47MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  50%|████▉     | 18.0M/36.2M [00:07<00:11, 1.73MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  52%|█████▏    | 19.0M/36.2M [00:07<00:09, 1.86MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  55%|█████▌    | 20.0M/36.2M [00:08<00:08, 2.00MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  61%|██████    | 22.0M/36.2M [00:08<00:05, 2.82MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  66%|██████▋   | 24.0M/36.2M [00:08<00:03, 3.78MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  72%|███████▏  | 26.0M/36.2M [00:08<00:02, 4.84MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  77%|███████▋  | 28.0M/36.2M [00:08<00:01, 5.96MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  86%|████████▌ | 31.0M/36.2M [00:08<00:00, 8.06MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  91%|█████████ | 33.0M/36.2M [00:09<00:00, 8.88MB/s]29f3917a6a3ac665ded9b589b6789a17.nc:  97%|█████████▋| 35.0M/36.2M [00:10<00:00, 3.95MB/s]                                                                                         ---------------------
+Get 1982 data
+---------------------
+2025-04-27 17:08:02,053 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 17:08:02,054 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 17:08:03,282 INFO Request ID is ce1190dc-bf2f-4d8f-ae6d-d8ea7ede99a0
+2025-04-27 17:08:03,475 INFO status has been updated to accepted
+2025-04-27 18:30:55,925 INFO status has been updated to running
+2025-04-27 18:32:56,578 INFO status has been updated to successful
+cb126f417b9698418ae9a4a1f8db99f4.nc:   0%|          | 0.00/30.4M [00:00<?, ?B/s]cb126f417b9698418ae9a4a1f8db99f4.nc:   3%|▎         | 1.00M/30.4M [00:01<00:46, 657kB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:   7%|▋         | 2.00M/30.4M [00:01<00:21, 1.38MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  13%|█▎        | 4.00M/30.4M [00:01<00:08, 3.09MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  23%|██▎       | 7.00M/30.4M [00:02<00:04, 5.85MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  33%|███▎      | 10.0M/30.4M [00:02<00:02, 7.80MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  39%|███▉      | 12.0M/30.4M [00:02<00:02, 9.52MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  46%|████▌     | 14.0M/30.4M [00:02<00:02, 6.92MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  53%|█████▎    | 16.0M/30.4M [00:03<00:01, 7.91MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  59%|█████▉    | 18.0M/30.4M [00:05<00:05, 2.47MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  62%|██████▏   | 19.0M/30.4M [00:05<00:04, 2.75MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  66%|██████▌   | 20.0M/30.4M [00:05<00:03, 3.10MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  72%|███████▏  | 22.0M/30.4M [00:05<00:02, 4.25MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  82%|████████▏ | 25.0M/30.4M [00:06<00:01, 5.52MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  92%|█████████▏| 28.0M/30.4M [00:06<00:00, 7.46MB/s]cb126f417b9698418ae9a4a1f8db99f4.nc:  99%|█████████▊| 30.0M/30.4M [00:09<00:00, 1.82MB/s]                                                                                         ---------------------
+Get 1983 data
+---------------------
+2025-04-27 18:33:08,938 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 18:33:08,938 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 18:33:09,699 INFO Request ID is cfae658b-b093-424b-b79a-416177322c60
+2025-04-27 18:33:10,237 INFO status has been updated to accepted
+2025-04-27 19:21:52,232 INFO status has been updated to running
+2025-04-27 19:23:53,031 INFO status has been updated to successful
+ad9a478574017919068932b768bb9d1e.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]ad9a478574017919068932b768bb9d1e.nc:   3%|▎         | 1.00M/36.2M [00:01<00:57, 638kB/s]ad9a478574017919068932b768bb9d1e.nc:   6%|▌         | 2.00M/36.2M [00:01<00:25, 1.39MB/s]ad9a478574017919068932b768bb9d1e.nc:  11%|█         | 4.00M/36.2M [00:01<00:10, 3.11MB/s]ad9a478574017919068932b768bb9d1e.nc:  19%|█▉        | 7.00M/36.2M [00:02<00:05, 5.88MB/s]ad9a478574017919068932b768bb9d1e.nc:  28%|██▊       | 10.0M/36.2M [00:02<00:03, 8.03MB/s]ad9a478574017919068932b768bb9d1e.nc:  36%|███▌      | 13.0M/36.2M [00:02<00:03, 7.81MB/s]ad9a478574017919068932b768bb9d1e.nc:  41%|████▏     | 15.0M/36.2M [00:02<00:02, 8.57MB/s]ad9a478574017919068932b768bb9d1e.nc:  47%|████▋     | 17.0M/36.2M [00:05<00:08, 2.26MB/s]ad9a478574017919068932b768bb9d1e.nc:  50%|████▉     | 18.0M/36.2M [00:06<00:10, 1.86MB/s]ad9a478574017919068932b768bb9d1e.nc:  52%|█████▏    | 19.0M/36.2M [00:07<00:08, 2.01MB/s]ad9a478574017919068932b768bb9d1e.nc:  55%|█████▌    | 20.0M/36.2M [00:07<00:07, 2.34MB/s]ad9a478574017919068932b768bb9d1e.nc:  58%|█████▊    | 21.0M/36.2M [00:07<00:05, 2.72MB/s]ad9a478574017919068932b768bb9d1e.nc:  61%|██████    | 22.0M/36.2M [00:07<00:05, 2.79MB/s]ad9a478574017919068932b768bb9d1e.nc:  69%|██████▉   | 25.0M/36.2M [00:07<00:02, 4.93MB/s]ad9a478574017919068932b768bb9d1e.nc:  72%|███████▏  | 26.0M/36.2M [00:08<00:02, 5.14MB/s]ad9a478574017919068932b768bb9d1e.nc:  77%|███████▋  | 28.0M/36.2M [00:08<00:01, 6.48MB/s]ad9a478574017919068932b768bb9d1e.nc:  83%|████████▎ | 30.0M/36.2M [00:08<00:00, 7.67MB/s]ad9a478574017919068932b768bb9d1e.nc:  91%|█████████ | 33.0M/36.2M [00:08<00:00, 9.93MB/s]ad9a478574017919068932b768bb9d1e.nc:  97%|█████████▋| 35.0M/36.2M [00:08<00:00, 10.5MB/s]                                                                                         ---------------------
+Get 1984 data
+---------------------
+2025-04-27 19:24:08,424 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 19:24:08,424 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 19:24:09,700 INFO Request ID is 1fc7a05e-cf23-407f-bebc-6de614f251a4
+2025-04-27 19:24:09,910 INFO status has been updated to accepted
+2025-04-27 20:16:53,233 INFO status has been updated to running
+2025-04-27 20:18:53,935 INFO status has been updated to successful
+3d01b194969352322f4d417c12b12f7c.nc:   0%|          | 0.00/36.6M [00:00<?, ?B/s]3d01b194969352322f4d417c12b12f7c.nc:   3%|▎         | 1.00M/36.6M [00:01<00:58, 637kB/s]3d01b194969352322f4d417c12b12f7c.nc:   5%|▌         | 2.00M/36.6M [00:01<00:27, 1.34MB/s]3d01b194969352322f4d417c12b12f7c.nc:   8%|▊         | 3.00M/36.6M [00:01<00:16, 2.18MB/s]3d01b194969352322f4d417c12b12f7c.nc:  16%|█▋        | 6.00M/36.6M [00:02<00:06, 5.19MB/s]3d01b194969352322f4d417c12b12f7c.nc:  25%|██▍       | 9.00M/36.6M [00:02<00:03, 7.90MB/s]3d01b194969352322f4d417c12b12f7c.nc:  33%|███▎      | 12.0M/36.6M [00:02<00:02, 10.2MB/s]3d01b194969352322f4d417c12b12f7c.nc:  41%|████      | 15.0M/36.6M [00:02<00:01, 12.0MB/s]3d01b194969352322f4d417c12b12f7c.nc:  46%|████▋     | 17.0M/36.6M [00:02<00:01, 11.2MB/s]3d01b194969352322f4d417c12b12f7c.nc:  52%|█████▏    | 19.0M/36.6M [00:03<00:01, 11.3MB/s]3d01b194969352322f4d417c12b12f7c.nc:  57%|█████▋    | 21.0M/36.6M [00:03<00:01, 11.4MB/s]3d01b194969352322f4d417c12b12f7c.nc:  63%|██████▎   | 23.0M/36.6M [00:07<00:09, 1.45MB/s]3d01b194969352322f4d417c12b12f7c.nc:  66%|██████▌   | 24.0M/36.6M [00:08<00:07, 1.66MB/s]3d01b194969352322f4d417c12b12f7c.nc:  71%|███████   | 26.0M/36.6M [00:08<00:04, 2.30MB/s]3d01b194969352322f4d417c12b12f7c.nc:  74%|███████▎  | 27.0M/36.6M [00:08<00:04, 2.41MB/s]3d01b194969352322f4d417c12b12f7c.nc:  82%|████████▏ | 30.0M/36.6M [00:09<00:02, 3.29MB/s]3d01b194969352322f4d417c12b12f7c.nc:  90%|█████████ | 33.0M/36.6M [00:09<00:00, 4.81MB/s]3d01b194969352322f4d417c12b12f7c.nc:  93%|█████████▎| 34.0M/36.6M [00:09<00:00, 4.98MB/s]3d01b194969352322f4d417c12b12f7c.nc:  98%|█████████▊| 36.0M/36.6M [00:09<00:00, 6.04MB/s]                                                                                         ---------------------
+Get 1985 data
+---------------------
+2025-04-27 20:19:05,971 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 20:19:05,971 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 20:19:07,154 INFO Request ID is 670d0a0b-4ce1-474d-8f13-9441f67be24e
+2025-04-27 20:19:07,351 INFO status has been updated to accepted
+2025-04-27 20:51:37,789 INFO status has been updated to running
+2025-04-27 20:53:38,460 INFO status has been updated to successful
+d50afcd5ac062876ef2717ddc7004c05.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]d50afcd5ac062876ef2717ddc7004c05.nc:   3%|▎         | 1.00M/36.1M [00:01<00:56, 648kB/s]d50afcd5ac062876ef2717ddc7004c05.nc:   6%|▌         | 2.00M/36.1M [00:01<00:26, 1.37MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:   8%|▊         | 3.00M/36.1M [00:01<00:15, 2.19MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  17%|█▋        | 6.00M/36.1M [00:02<00:06, 5.24MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  25%|██▍       | 9.00M/36.1M [00:02<00:03, 7.90MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  31%|███       | 11.0M/36.1M [00:02<00:02, 8.98MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  36%|███▌      | 13.0M/36.1M [00:02<00:02, 8.63MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  42%|████▏     | 15.0M/36.1M [00:02<00:02, 9.38MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  47%|████▋     | 17.0M/36.1M [00:03<00:02, 8.57MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  55%|█████▌    | 20.0M/36.1M [00:03<00:01, 10.7MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  61%|██████    | 22.0M/36.1M [00:03<00:01, 9.89MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  67%|██████▋   | 24.0M/36.1M [00:03<00:01, 8.73MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  69%|██████▉   | 25.0M/36.1M [00:04<00:01, 6.70MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  75%|███████▍  | 27.0M/36.1M [00:04<00:01, 7.73MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  80%|████████  | 29.0M/36.1M [00:04<00:00, 8.81MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  83%|████████▎ | 30.0M/36.1M [00:04<00:00, 8.17MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  89%|████████▉ | 32.0M/36.1M [00:04<00:00, 9.11MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  94%|█████████▍| 34.0M/36.1M [00:05<00:00, 9.85MB/s]d50afcd5ac062876ef2717ddc7004c05.nc:  97%|█████████▋| 35.0M/36.1M [00:05<00:00, 8.73MB/s]                                                                                         ---------------------
+Get 1986 data
+---------------------
+2025-04-27 20:53:45,468 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 20:53:45,468 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 20:53:46,243 INFO Request ID is 3577134a-6860-44e2-a49d-e4af871418fe
+2025-04-27 20:53:46,432 INFO status has been updated to accepted
+2025-04-27 21:24:20,314 INFO status has been updated to running
+2025-04-27 21:26:21,144 INFO status has been updated to successful
+8208873a15a44673e22d6f262283de9b.nc:   0%|          | 0.00/36.3M [00:00<?, ?B/s]8208873a15a44673e22d6f262283de9b.nc:   3%|▎         | 1.00M/36.3M [00:01<00:58, 637kB/s]8208873a15a44673e22d6f262283de9b.nc:   6%|▌         | 2.00M/36.3M [00:01<00:26, 1.34MB/s]8208873a15a44673e22d6f262283de9b.nc:   8%|▊         | 3.00M/36.3M [00:01<00:16, 2.17MB/s]8208873a15a44673e22d6f262283de9b.nc:  17%|█▋        | 6.00M/36.3M [00:02<00:06, 5.19MB/s]8208873a15a44673e22d6f262283de9b.nc:  25%|██▍       | 9.00M/36.3M [00:02<00:03, 7.90MB/s]8208873a15a44673e22d6f262283de9b.nc:  33%|███▎      | 12.0M/36.3M [00:02<00:02, 10.2MB/s]8208873a15a44673e22d6f262283de9b.nc:  39%|███▊      | 14.0M/36.3M [00:02<00:02, 9.28MB/s]8208873a15a44673e22d6f262283de9b.nc:  44%|████▍     | 16.0M/36.3M [00:02<00:02, 9.91MB/s]8208873a15a44673e22d6f262283de9b.nc:  50%|████▉     | 18.0M/36.3M [00:03<00:02, 6.74MB/s]8208873a15a44673e22d6f262283de9b.nc:  55%|█████▌    | 20.0M/36.3M [00:03<00:02, 7.10MB/s]8208873a15a44673e22d6f262283de9b.nc:  58%|█████▊    | 21.0M/36.3M [00:05<00:05, 2.70MB/s]8208873a15a44673e22d6f262283de9b.nc:  61%|██████    | 22.0M/36.3M [00:05<00:06, 2.32MB/s]8208873a15a44673e22d6f262283de9b.nc:  63%|██████▎   | 23.0M/36.3M [00:06<00:05, 2.68MB/s]8208873a15a44673e22d6f262283de9b.nc:  66%|██████▌   | 24.0M/36.3M [00:06<00:04, 3.10MB/s]8208873a15a44673e22d6f262283de9b.nc:  72%|███████▏  | 26.0M/36.3M [00:06<00:02, 4.42MB/s]8208873a15a44673e22d6f262283de9b.nc:  80%|███████▉  | 29.0M/36.3M [00:07<00:01, 5.04MB/s]8208873a15a44673e22d6f262283de9b.nc:  88%|████████▊ | 32.0M/36.3M [00:07<00:00, 7.02MB/s]8208873a15a44673e22d6f262283de9b.nc:  91%|█████████ | 33.0M/36.3M [00:07<00:00, 6.88MB/s]8208873a15a44673e22d6f262283de9b.nc:  96%|█████████▋| 35.0M/36.3M [00:07<00:00, 7.90MB/s]                                                                                         ---------------------
+Get 1987 data
+---------------------
+2025-04-27 21:26:30,371 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 21:26:30,371 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 21:26:31,130 INFO Request ID is 84aef137-95fc-4cdf-939c-547b4b6e6853
+2025-04-27 21:26:31,330 INFO status has been updated to accepted
+2025-04-27 21:57:01,618 INFO status has been updated to successful
+372991c50781845ad5a0aca8159b2f04.nc:   0%|          | 0.00/36.0M [00:00<?, ?B/s]372991c50781845ad5a0aca8159b2f04.nc:   3%|▎         | 1.00M/36.0M [00:01<00:59, 615kB/s]372991c50781845ad5a0aca8159b2f04.nc:   6%|▌         | 2.00M/36.0M [00:01<00:27, 1.30MB/s]372991c50781845ad5a0aca8159b2f04.nc:   8%|▊         | 3.00M/36.0M [00:02<00:16, 2.13MB/s]372991c50781845ad5a0aca8159b2f04.nc:  14%|█▍        | 5.00M/36.0M [00:02<00:08, 3.98MB/s]372991c50781845ad5a0aca8159b2f04.nc:  22%|██▏       | 8.00M/36.0M [00:02<00:04, 6.87MB/s]372991c50781845ad5a0aca8159b2f04.nc:  31%|███       | 11.0M/36.0M [00:02<00:02, 9.34MB/s]372991c50781845ad5a0aca8159b2f04.nc:  39%|███▉      | 14.0M/36.0M [00:02<00:02, 11.3MB/s]372991c50781845ad5a0aca8159b2f04.nc:  47%|████▋     | 17.0M/36.0M [00:02<00:01, 12.9MB/s]372991c50781845ad5a0aca8159b2f04.nc:  53%|█████▎    | 19.0M/36.0M [00:03<00:01, 14.3MB/s]372991c50781845ad5a0aca8159b2f04.nc:  58%|█████▊    | 21.0M/36.0M [00:03<00:01, 14.5MB/s]372991c50781845ad5a0aca8159b2f04.nc:  64%|██████▍   | 23.0M/36.0M [00:03<00:00, 15.1MB/s]372991c50781845ad5a0aca8159b2f04.nc:  72%|███████▏  | 26.0M/36.0M [00:03<00:00, 15.7MB/s]372991c50781845ad5a0aca8159b2f04.nc:  78%|███████▊  | 28.0M/36.0M [00:03<00:00, 12.3MB/s]372991c50781845ad5a0aca8159b2f04.nc:  83%|████████▎ | 30.0M/36.0M [00:03<00:00, 12.1MB/s]372991c50781845ad5a0aca8159b2f04.nc:  89%|████████▉ | 32.0M/36.0M [00:04<00:00, 7.71MB/s]372991c50781845ad5a0aca8159b2f04.nc:  97%|█████████▋| 35.0M/36.0M [00:04<00:00, 9.68MB/s]                                                                                         ---------------------
+Get 1988 data
+---------------------
+2025-04-27 21:57:08,408 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 21:57:08,408 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 21:57:09,394 INFO Request ID is aa0b663a-fae3-4bc6-b4d9-9eed5cdff726
+2025-04-27 21:57:09,960 INFO status has been updated to accepted
+2025-04-27 22:27:57,418 INFO status has been updated to running
+2025-04-27 22:30:03,334 INFO status has been updated to successful
+29ab90c395ae78f75a1ceef693886020.nc:   0%|          | 0.00/36.4M [00:00<?, ?B/s]29ab90c395ae78f75a1ceef693886020.nc:   3%|▎         | 1.00M/36.4M [00:02<01:23, 447kB/s]29ab90c395ae78f75a1ceef693886020.nc:   5%|▌         | 2.00M/36.4M [00:02<00:38, 938kB/s]29ab90c395ae78f75a1ceef693886020.nc:  11%|█         | 4.00M/36.4M [00:02<00:16, 2.11MB/s]29ab90c395ae78f75a1ceef693886020.nc:  19%|█▉        | 7.00M/36.4M [00:03<00:07, 4.02MB/s]29ab90c395ae78f75a1ceef693886020.nc:  22%|██▏       | 8.00M/36.4M [00:07<00:29, 1.01MB/s]29ab90c395ae78f75a1ceef693886020.nc:  25%|██▍       | 9.00M/36.4M [00:07<00:25, 1.14MB/s]29ab90c395ae78f75a1ceef693886020.nc:  30%|███       | 11.0M/36.4M [00:07<00:15, 1.75MB/s]29ab90c395ae78f75a1ceef693886020.nc:  38%|███▊      | 14.0M/36.4M [00:08<00:08, 2.88MB/s]29ab90c395ae78f75a1ceef693886020.nc:  44%|████▍     | 16.0M/36.4M [00:08<00:05, 3.63MB/s]29ab90c395ae78f75a1ceef693886020.nc:  52%|█████▏    | 19.0M/36.4M [00:08<00:03, 5.02MB/s]29ab90c395ae78f75a1ceef693886020.nc:  60%|██████    | 22.0M/36.4M [00:08<00:02, 6.37MB/s]29ab90c395ae78f75a1ceef693886020.nc:  69%|██████▊   | 25.0M/36.4M [00:09<00:01, 7.61MB/s]29ab90c395ae78f75a1ceef693886020.nc:  77%|███████▋  | 28.0M/36.4M [00:09<00:01, 8.70MB/s]29ab90c395ae78f75a1ceef693886020.nc:  82%|████████▏ | 30.0M/36.4M [00:12<00:03, 2.06MB/s]29ab90c395ae78f75a1ceef693886020.nc:  88%|████████▊ | 32.0M/36.4M [00:13<00:01, 2.54MB/s]29ab90c395ae78f75a1ceef693886020.nc:  93%|█████████▎| 34.0M/36.4M [00:13<00:00, 3.13MB/s]                                                                                         ---------------------
+Get 1989 data
+---------------------
+2025-04-27 22:30:19,716 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 22:30:19,716 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 22:30:20,733 INFO Request ID is 4769fedb-9867-4fec-8ed8-3319d37a7274
+2025-04-27 22:30:21,010 INFO status has been updated to accepted
+2025-04-27 23:03:00,503 INFO status has been updated to successful
+7d9a8173674048de762f3c7ae16d30b.nc:   0%|          | 0.00/36.7M [00:00<?, ?B/s]7d9a8173674048de762f3c7ae16d30b.nc:   3%|▎         | 1.00M/36.7M [00:02<01:22, 453kB/s]7d9a8173674048de762f3c7ae16d30b.nc:   5%|▌         | 2.00M/36.7M [00:02<00:38, 951kB/s]7d9a8173674048de762f3c7ae16d30b.nc:  11%|█         | 4.00M/36.7M [00:02<00:16, 2.13MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  19%|█▉        | 7.00M/36.7M [00:03<00:07, 4.04MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  25%|██▍       | 9.00M/36.7M [00:03<00:05, 4.95MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  30%|██▉       | 11.0M/36.7M [00:03<00:04, 6.66MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  35%|███▌      | 13.0M/36.7M [00:03<00:03, 7.23MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  41%|████      | 15.0M/36.7M [00:03<00:02, 8.29MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  46%|████▋     | 17.0M/36.7M [00:03<00:02, 9.97MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  52%|█████▏    | 19.0M/36.7M [00:04<00:01, 9.65MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  57%|█████▋    | 21.0M/36.7M [00:04<00:01, 10.4MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  63%|██████▎   | 23.0M/36.7M [00:04<00:01, 12.1MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  68%|██████▊   | 25.0M/36.7M [00:04<00:01, 10.8MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  74%|███████▎  | 27.0M/36.7M [00:04<00:00, 11.3MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  79%|███████▉  | 29.0M/36.7M [00:06<00:01, 4.43MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  82%|████████▏ | 30.0M/36.7M [00:07<00:03, 2.05MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  84%|████████▍ | 31.0M/36.7M [00:08<00:02, 2.05MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  90%|████████▉ | 33.0M/36.7M [00:08<00:01, 2.82MB/s]7d9a8173674048de762f3c7ae16d30b.nc:  95%|█████████▌| 35.0M/36.7M [00:08<00:00, 3.65MB/s]                                                                                        ---------------------
+Get 1990 data
+---------------------
+2025-04-27 23:03:12,309 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 23:03:12,310 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 23:03:13,357 INFO Request ID is f0121dee-8b36-4624-b907-a85fb38f2bc3
+2025-04-27 23:03:13,625 INFO status has been updated to accepted
+2025-04-27 23:37:48,116 INFO status has been updated to running
+2025-04-27 23:39:48,935 INFO status has been updated to successful
+9c64e6d4f89082a7c00259d4e2ce7027.nc:   0%|          | 0.00/39.7M [00:00<?, ?B/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:   3%|▎         | 1.00M/39.7M [00:01<01:04, 629kB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:   5%|▌         | 2.00M/39.7M [00:01<00:29, 1.32MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:   8%|▊         | 3.00M/39.7M [00:01<00:17, 2.14MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  15%|█▌        | 6.00M/39.7M [00:06<00:39, 899kB/s] 9c64e6d4f89082a7c00259d4e2ce7027.nc:  18%|█▊        | 7.00M/39.7M [00:06<00:31, 1.08MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  20%|██        | 8.00M/39.7M [00:07<00:24, 1.36MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  25%|██▌       | 10.0M/39.7M [00:07<00:14, 2.17MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  33%|███▎      | 13.0M/39.7M [00:07<00:07, 3.71MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  40%|████      | 16.0M/39.7M [00:07<00:04, 5.43MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  48%|████▊     | 19.0M/39.7M [00:07<00:02, 7.26MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  55%|█████▌    | 22.0M/39.7M [00:07<00:02, 9.07MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  63%|██████▎   | 25.0M/39.7M [00:08<00:01, 10.7MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  68%|██████▊   | 27.0M/39.7M [00:10<00:03, 3.47MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  73%|███████▎  | 29.0M/39.7M [00:10<00:03, 3.56MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  76%|███████▌  | 30.0M/39.7M [00:10<00:02, 3.79MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  83%|████████▎ | 33.0M/39.7M [00:10<00:01, 5.49MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  88%|████████▊ | 35.0M/39.7M [00:11<00:00, 5.61MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  93%|█████████▎| 37.0M/39.7M [00:11<00:00, 6.59MB/s]9c64e6d4f89082a7c00259d4e2ce7027.nc:  98%|█████████▊| 39.0M/39.7M [00:12<00:00, 5.51MB/s]                                                                                         ---------------------
+Get 1991 data
+---------------------
+2025-04-27 23:40:03,347 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-27 23:40:03,348 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-27 23:40:04,501 INFO Request ID is 67ec8577-4df6-41fd-b512-61c2259fbfc9
+2025-04-27 23:40:04,704 INFO status has been updated to accepted
+2025-04-28 00:14:35,499 INFO status has been updated to running
+2025-04-28 00:18:36,862 INFO status has been updated to successful
+45c5aa0e5bfd9d03292b1f74c352fa8c.nc:   0%|          | 0.00/36.6M [00:00<?, ?B/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:   3%|▎         | 1.00M/36.6M [00:01<00:59, 630kB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:   5%|▌         | 2.00M/36.6M [00:01<00:27, 1.33MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  11%|█         | 4.00M/36.6M [00:02<00:11, 3.01MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  14%|█▎        | 5.00M/36.6M [00:02<00:12, 2.68MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  16%|█▋        | 6.00M/36.6M [00:02<00:09, 3.23MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  19%|█▉        | 7.00M/36.6M [00:03<00:09, 3.17MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  22%|██▏       | 8.00M/36.6M [00:03<00:08, 3.70MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  25%|██▍       | 9.00M/36.6M [00:03<00:09, 2.95MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  27%|██▋       | 10.0M/36.6M [00:03<00:07, 3.48MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  33%|███▎      | 12.0M/36.6M [00:04<00:04, 5.16MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  36%|███▌      | 13.0M/36.6M [00:06<00:15, 1.62MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  38%|███▊      | 14.0M/36.6M [00:06<00:12, 1.84MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  44%|████▍     | 16.0M/36.6M [00:06<00:07, 2.88MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  47%|████▋     | 17.0M/36.6M [00:06<00:06, 3.29MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  52%|█████▏    | 19.0M/36.6M [00:06<00:03, 4.63MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  57%|█████▋    | 21.0M/36.6M [00:07<00:02, 5.95MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  63%|██████▎   | 23.0M/36.6M [00:07<00:01, 7.20MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  66%|██████▌   | 24.0M/36.6M [00:07<00:01, 7.03MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  71%|███████   | 26.0M/36.6M [00:07<00:01, 8.24MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  77%|███████▋  | 28.0M/36.6M [00:07<00:00, 9.28MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  82%|████████▏ | 30.0M/36.6M [00:09<00:02, 2.44MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  85%|████████▍ | 31.0M/36.6M [00:10<00:02, 2.53MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  90%|█████████ | 33.0M/36.6M [00:10<00:01, 3.49MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  93%|█████████▎| 34.0M/36.6M [00:10<00:00, 3.83MB/s]45c5aa0e5bfd9d03292b1f74c352fa8c.nc:  98%|█████████▊| 36.0M/36.6M [00:10<00:00, 5.08MB/s]                                                                                         ---------------------
+Get 1992 data
+---------------------
+2025-04-28 00:18:49,325 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 00:18:49,325 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 00:18:50,164 INFO Request ID is 3e5a2f72-791a-4c0b-a80b-c44681cfd77b
+2025-04-28 00:18:50,400 INFO status has been updated to accepted
+2025-04-28 01:15:33,801 INFO status has been updated to running
+2025-04-28 01:17:34,811 INFO status has been updated to successful
+e8ebd585f38d9033415e15da01637544.nc:   0%|          | 0.00/36.7M [00:00<?, ?B/s]e8ebd585f38d9033415e15da01637544.nc:   3%|▎         | 1.00M/36.7M [00:01<01:00, 621kB/s]e8ebd585f38d9033415e15da01637544.nc:   5%|▌         | 2.00M/36.7M [00:02<00:33, 1.10MB/s]e8ebd585f38d9033415e15da01637544.nc:   8%|▊         | 3.00M/36.7M [00:02<00:24, 1.47MB/s]e8ebd585f38d9033415e15da01637544.nc:  11%|█         | 4.00M/36.7M [00:03<00:20, 1.71MB/s]e8ebd585f38d9033415e15da01637544.nc:  14%|█▎        | 5.00M/36.7M [00:03<00:17, 1.90MB/s]e8ebd585f38d9033415e15da01637544.nc:  16%|█▋        | 6.00M/36.7M [00:03<00:16, 1.93MB/s]e8ebd585f38d9033415e15da01637544.nc:  19%|█▉        | 7.00M/36.7M [00:04<00:15, 2.05MB/s]e8ebd585f38d9033415e15da01637544.nc:  22%|██▏       | 8.00M/36.7M [00:04<00:14, 2.13MB/s]e8ebd585f38d9033415e15da01637544.nc:  25%|██▍       | 9.00M/36.7M [00:05<00:13, 2.10MB/s]e8ebd585f38d9033415e15da01637544.nc:  27%|██▋       | 10.0M/36.7M [00:05<00:12, 2.28MB/s]e8ebd585f38d9033415e15da01637544.nc:  30%|███       | 11.0M/36.7M [00:06<00:12, 2.20MB/s]e8ebd585f38d9033415e15da01637544.nc:  33%|███▎      | 12.0M/36.7M [00:06<00:10, 2.35MB/s]e8ebd585f38d9033415e15da01637544.nc:  35%|███▌      | 13.0M/36.7M [00:07<00:10, 2.26MB/s]e8ebd585f38d9033415e15da01637544.nc:  38%|███▊      | 14.0M/36.7M [00:07<00:09, 2.39MB/s]e8ebd585f38d9033415e15da01637544.nc:  41%|████      | 15.0M/36.7M [00:08<00:09, 2.28MB/s]e8ebd585f38d9033415e15da01637544.nc:  44%|████▎     | 16.0M/36.7M [00:08<00:08, 2.41MB/s]e8ebd585f38d9033415e15da01637544.nc:  46%|████▋     | 17.0M/36.7M [00:08<00:09, 2.29MB/s]e8ebd585f38d9033415e15da01637544.nc:  49%|████▉     | 18.0M/36.7M [00:09<00:08, 2.42MB/s]e8ebd585f38d9033415e15da01637544.nc:  52%|█████▏    | 19.0M/36.7M [00:09<00:08, 2.31MB/s]e8ebd585f38d9033415e15da01637544.nc:  55%|█████▍    | 20.0M/36.7M [00:10<00:07, 2.44MB/s]e8ebd585f38d9033415e15da01637544.nc:  57%|█████▋    | 21.0M/36.7M [00:10<00:07, 2.33MB/s]e8ebd585f38d9033415e15da01637544.nc:  60%|██████    | 22.0M/36.7M [00:11<00:06, 2.44MB/s]e8ebd585f38d9033415e15da01637544.nc:  63%|██████▎   | 23.0M/36.7M [00:11<00:05, 2.52MB/s]e8ebd585f38d9033415e15da01637544.nc:  65%|██████▌   | 24.0M/36.7M [00:11<00:05, 2.45MB/s]e8ebd585f38d9033415e15da01637544.nc:  68%|██████▊   | 25.0M/36.7M [00:12<00:04, 2.54MB/s]e8ebd585f38d9033415e15da01637544.nc:  71%|███████   | 26.0M/36.7M [00:15<00:12, 912kB/s] e8ebd585f38d9033415e15da01637544.nc:  74%|███████▎  | 27.0M/36.7M [00:15<00:09, 1.09MB/s]e8ebd585f38d9033415e15da01637544.nc:  76%|███████▋  | 28.0M/36.7M [00:16<00:07, 1.26MB/s]e8ebd585f38d9033415e15da01637544.nc:  79%|███████▉  | 29.0M/36.7M [00:16<00:05, 1.52MB/s]e8ebd585f38d9033415e15da01637544.nc:  82%|████████▏ | 30.0M/36.7M [00:17<00:04, 1.64MB/s]e8ebd585f38d9033415e15da01637544.nc:  85%|████████▍ | 31.0M/36.7M [00:17<00:03, 1.88MB/s]e8ebd585f38d9033415e15da01637544.nc:  87%|████████▋ | 32.0M/36.7M [00:17<00:02, 2.10MB/s]e8ebd585f38d9033415e15da01637544.nc:  90%|█████████ | 33.0M/36.7M [00:18<00:01, 2.31MB/s]e8ebd585f38d9033415e15da01637544.nc:  93%|█████████▎| 34.0M/36.7M [00:18<00:01, 2.22MB/s]e8ebd585f38d9033415e15da01637544.nc:  95%|█████████▌| 35.0M/36.7M [00:19<00:00, 2.39MB/s]e8ebd585f38d9033415e15da01637544.nc:  98%|█████████▊| 36.0M/36.7M [00:19<00:00, 2.54MB/s]e8ebd585f38d9033415e15da01637544.nc: 100%|██████████| 36.7M/36.7M [00:19<00:00, 2.72MB/s]                                                                                         ---------------------
+Get 1993 data
+---------------------
+2025-04-28 01:17:56,644 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 01:17:56,644 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 01:17:57,757 INFO Request ID is a43e4d20-6056-4017-9cdc-53b5769e32bf
+2025-04-28 01:17:58,127 INFO status has been updated to accepted
+2025-04-28 02:50:55,773 INFO status has been updated to running
+2025-04-28 02:52:56,543 INFO status has been updated to successful
+6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:   0%|          | 0.00/30.8M [00:00<?, ?B/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:   3%|▎         | 1.00M/30.8M [00:01<00:52, 590kB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:   7%|▋         | 2.00M/30.8M [00:01<00:24, 1.25MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  13%|█▎        | 4.00M/30.8M [00:02<00:09, 2.85MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  23%|██▎       | 7.00M/30.8M [00:02<00:04, 5.48MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  29%|██▉       | 9.00M/30.8M [00:02<00:03, 6.75MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  39%|███▉      | 12.0M/30.8M [00:02<00:02, 9.17MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  46%|████▌     | 14.0M/30.8M [00:02<00:02, 8.53MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  52%|█████▏    | 16.0M/30.8M [00:03<00:02, 6.38MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  59%|█████▊    | 18.0M/30.8M [00:03<00:01, 8.00MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  65%|██████▌   | 20.0M/30.8M [00:03<00:01, 8.77MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  75%|███████▍  | 23.0M/30.8M [00:03<00:00, 10.8MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  81%|████████▏ | 25.0M/30.8M [00:04<00:00, 8.20MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  91%|█████████ | 28.0M/30.8M [00:04<00:00, 10.2MB/s]6f25f9a47cb5cf4e2b6b5381cc7abca3.nc:  98%|█████████▊| 30.0M/30.8M [00:04<00:00, 8.55MB/s]                                                                                         ---------------------
+Get 1994 data
+---------------------
+2025-04-28 02:53:03,593 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 02:53:03,593 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 02:53:04,441 INFO Request ID is 6b778606-3593-4013-bce2-2481ef900e50
+2025-04-28 02:53:04,640 INFO status has been updated to accepted
+2025-04-28 05:32:43,238 INFO status has been updated to running
+2025-04-28 05:34:43,918 INFO status has been updated to successful
+dc2faf2f793c1240ba0037ebe616c9aa.nc:   0%|          | 0.00/39.2M [00:00<?, ?B/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:   3%|▎         | 1.00M/39.2M [00:01<01:01, 646kB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:   5%|▌         | 2.00M/39.2M [00:01<00:31, 1.24MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:   8%|▊         | 3.00M/39.2M [00:02<00:20, 1.87MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  10%|█         | 4.00M/39.2M [00:02<00:14, 2.47MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  13%|█▎        | 5.00M/39.2M [00:02<00:10, 3.30MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  15%|█▌        | 6.00M/39.2M [00:02<00:08, 4.14MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  18%|█▊        | 7.00M/39.2M [00:02<00:09, 3.70MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  20%|██        | 8.00M/39.2M [00:03<00:09, 3.46MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  23%|██▎       | 9.00M/39.2M [00:03<00:09, 3.32MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  26%|██▌       | 10.0M/39.2M [00:03<00:08, 3.46MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  28%|██▊       | 11.0M/39.2M [00:04<00:08, 3.48MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  31%|███       | 12.0M/39.2M [00:04<00:08, 3.49MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  33%|███▎      | 13.0M/39.2M [00:04<00:08, 3.35MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  36%|███▌      | 14.0M/39.2M [00:05<00:07, 3.65MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  38%|███▊      | 15.0M/39.2M [00:05<00:07, 3.60MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  41%|████      | 16.0M/39.2M [00:05<00:07, 3.43MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  43%|████▎     | 17.0M/39.2M [00:05<00:06, 3.72MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  46%|████▌     | 18.0M/39.2M [00:06<00:06, 3.66MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  49%|████▊     | 19.0M/39.2M [00:06<00:06, 3.47MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  51%|█████     | 20.0M/39.2M [00:06<00:05, 3.74MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  54%|█████▎    | 21.0M/39.2M [00:07<00:05, 3.66MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  56%|█████▌    | 22.0M/39.2M [00:07<00:05, 3.48MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  59%|█████▊    | 23.0M/39.2M [00:10<00:18, 920kB/s] dc2faf2f793c1240ba0037ebe616c9aa.nc:  61%|██████▏   | 24.0M/39.2M [00:10<00:13, 1.16MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  64%|██████▍   | 25.0M/39.2M [00:11<00:10, 1.43MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  66%|██████▋   | 26.0M/39.2M [00:11<00:08, 1.70MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  69%|██████▉   | 27.0M/39.2M [00:11<00:05, 2.15MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  71%|███████▏  | 28.0M/39.2M [00:12<00:04, 2.36MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  74%|███████▍  | 29.0M/39.2M [00:12<00:03, 2.88MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  77%|███████▋  | 30.0M/39.2M [00:12<00:03, 2.95MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  79%|███████▉  | 31.0M/39.2M [00:12<00:02, 3.46MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  82%|████████▏ | 32.0M/39.2M [00:12<00:01, 3.95MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  84%|████████▍ | 33.0M/39.2M [00:13<00:01, 4.41MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  87%|████████▋ | 34.0M/39.2M [00:13<00:01, 4.76MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  89%|████████▉ | 35.0M/39.2M [00:13<00:00, 5.09MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  92%|█████████▏| 36.0M/39.2M [00:13<00:00, 5.35MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  94%|█████████▍| 37.0M/39.2M [00:13<00:00, 5.56MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc:  97%|█████████▋| 38.0M/39.2M [00:14<00:00, 5.76MB/s]dc2faf2f793c1240ba0037ebe616c9aa.nc: 100%|█████████▉| 39.0M/39.2M [00:14<00:00, 5.88MB/s]                                                                                         ---------------------
+Get 1995 data
+---------------------
+2025-04-28 05:35:00,304 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 05:35:00,304 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 05:35:02,288 INFO Request ID is 13b4335a-9bf4-427c-9aab-7c1c805de836
+2025-04-28 05:35:02,503 INFO status has been updated to accepted
+2025-04-28 09:49:14,665 INFO status has been updated to running
+2025-04-28 09:51:15,292 INFO status has been updated to successful
+b36a9a232ee2c10465449e0d05ce6b8a.nc:   0%|          | 0.00/36.4M [00:00<?, ?B/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:   3%|▎         | 1.00M/36.4M [00:01<00:57, 650kB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:   6%|▌         | 2.00M/36.4M [00:01<00:26, 1.37MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  11%|█         | 4.00M/36.4M [00:01<00:10, 3.09MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  19%|█▉        | 7.00M/36.4M [00:02<00:05, 5.15MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  28%|██▊       | 10.0M/36.4M [00:02<00:05, 5.52MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  36%|███▌      | 13.0M/36.4M [00:02<00:03, 7.53MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  41%|████▏     | 15.0M/36.4M [00:03<00:03, 7.07MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  47%|████▋     | 17.0M/36.4M [00:03<00:02, 7.99MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  50%|████▉     | 18.0M/36.4M [00:03<00:03, 5.39MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  58%|█████▊    | 21.0M/36.4M [00:04<00:02, 7.59MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  63%|██████▎   | 23.0M/36.4M [00:04<00:01, 8.45MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  69%|██████▉   | 25.0M/36.4M [00:04<00:01, 6.45MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  77%|███████▋  | 28.0M/36.4M [00:05<00:01, 8.51MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  83%|████████▎ | 30.0M/36.4M [00:08<00:03, 1.91MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  85%|████████▌ | 31.0M/36.4M [00:08<00:02, 2.03MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  88%|████████▊ | 32.0M/36.4M [00:09<00:01, 2.31MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  91%|█████████ | 33.0M/36.4M [00:09<00:01, 2.65MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  94%|█████████▎| 34.0M/36.4M [00:09<00:00, 3.05MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  96%|█████████▋| 35.0M/36.4M [00:09<00:00, 3.47MB/s]b36a9a232ee2c10465449e0d05ce6b8a.nc:  99%|█████████▉| 36.0M/36.4M [00:09<00:00, 3.37MB/s]                                                                                         ---------------------
+Get 1996 data
+---------------------
+2025-04-28 09:51:32,337 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 09:51:32,338 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 09:51:33,141 INFO Request ID is fa915adb-d050-4232-85a1-82cfe00386e9
+2025-04-28 09:51:33,355 INFO status has been updated to accepted
+Recovering from connection error [('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))], attemps 1 of 500
+Retrying in 120 seconds
+Recovering from HTTP error [500 Internal Server Error], attemps 1 of 500
+Retrying in 120 seconds
+2025-04-28 15:51:14,067 INFO status has been updated to running
+2025-04-28 15:53:14,739 INFO status has been updated to successful
+9b7e03236cc40c9564d52c13477319e5.nc:   0%|          | 0.00/36.9M [00:00<?, ?B/s]9b7e03236cc40c9564d52c13477319e5.nc:   3%|▎         | 1.00M/36.9M [00:01<00:58, 642kB/s]9b7e03236cc40c9564d52c13477319e5.nc:   5%|▌         | 2.00M/36.9M [00:01<00:27, 1.35MB/s]9b7e03236cc40c9564d52c13477319e5.nc:   8%|▊         | 3.00M/36.9M [00:01<00:16, 2.22MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  16%|█▋        | 6.00M/36.9M [00:02<00:06, 5.29MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  24%|██▍       | 9.00M/36.9M [00:02<00:03, 7.55MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  33%|███▎      | 12.0M/36.9M [00:02<00:02, 9.93MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  38%|███▊      | 14.0M/36.9M [00:03<00:04, 5.19MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  41%|████      | 15.0M/36.9M [00:03<00:04, 5.29MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  43%|████▎     | 16.0M/36.9M [00:03<00:04, 5.40MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  46%|████▌     | 17.0M/36.9M [00:04<00:04, 4.65MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  54%|█████▍    | 20.0M/36.9M [00:04<00:02, 7.10MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  57%|█████▋    | 21.0M/36.9M [00:05<00:06, 2.60MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  60%|█████▉    | 22.0M/36.9M [00:06<00:06, 2.26MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  62%|██████▏   | 23.0M/36.9M [00:06<00:05, 2.63MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  65%|██████▌   | 24.0M/36.9M [00:06<00:04, 3.07MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  70%|███████   | 26.0M/36.9M [00:07<00:02, 4.46MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  79%|███████▊  | 29.0M/36.9M [00:07<00:01, 6.85MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  84%|████████▍ | 31.0M/36.9M [00:07<00:00, 7.93MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  92%|█████████▏| 34.0M/36.9M [00:10<00:01, 2.21MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  95%|█████████▍| 35.0M/36.9M [00:11<00:01, 1.96MB/s]9b7e03236cc40c9564d52c13477319e5.nc:  98%|█████████▊| 36.0M/36.9M [00:11<00:00, 2.09MB/s]9b7e03236cc40c9564d52c13477319e5.nc: 100%|██████████| 36.9M/36.9M [00:11<00:00, 2.36MB/s]                                                                                         ---------------------
+Get 1997 data
+---------------------
+2025-04-28 15:53:28,497 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 15:53:28,497 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 15:53:29,479 INFO Request ID is 99216976-547a-4fc8-bcb8-34a7595d5d60
+2025-04-28 15:53:29,692 INFO status has been updated to accepted
+2025-04-28 18:51:02,614 INFO status has been updated to running
+2025-04-28 18:53:03,274 INFO status has been updated to successful
+b8935beca15f4a07ed4aab046930dd89.nc:   0%|          | 0.00/36.6M [00:00<?, ?B/s]b8935beca15f4a07ed4aab046930dd89.nc:   3%|▎         | 1.00M/36.6M [00:01<00:56, 656kB/s]b8935beca15f4a07ed4aab046930dd89.nc:   5%|▌         | 2.00M/36.6M [00:01<00:26, 1.37MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  11%|█         | 4.00M/36.6M [00:01<00:11, 3.09MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  19%|█▉        | 7.00M/36.6M [00:02<00:05, 5.85MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  27%|██▋       | 10.0M/36.6M [00:02<00:03, 7.98MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  36%|███▌      | 13.0M/36.6M [00:02<00:02, 10.1MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  41%|████      | 15.0M/36.6M [00:02<00:02, 8.99MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  46%|████▋     | 17.0M/36.6M [00:03<00:03, 6.66MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  55%|█████▍    | 20.0M/36.6M [00:03<00:02, 8.60MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  60%|██████    | 22.0M/36.6M [00:05<00:05, 2.65MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  63%|██████▎   | 23.0M/36.6M [00:06<00:04, 2.90MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  66%|██████▌   | 24.0M/36.6M [00:06<00:04, 3.21MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  71%|███████   | 26.0M/36.6M [00:06<00:02, 4.27MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  79%|███████▉  | 29.0M/36.6M [00:06<00:01, 6.29MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  85%|████████▍ | 31.0M/36.6M [00:06<00:00, 6.25MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  90%|█████████ | 33.0M/36.6M [00:07<00:00, 7.26MB/s]b8935beca15f4a07ed4aab046930dd89.nc:  96%|█████████▌| 35.0M/36.6M [00:07<00:00, 8.17MB/s]b8935beca15f4a07ed4aab046930dd89.nc: 100%|██████████| 36.6M/36.6M [00:07<00:00, 8.51MB/s]                                                                                         ---------------------
+Get 1998 data
+---------------------
+2025-04-28 18:53:17,808 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 18:53:17,808 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 18:53:18,888 INFO Request ID is 4338c0a8-14ee-4ce3-8404-e071cbaea010
+2025-04-28 18:53:19,101 INFO status has been updated to accepted
+2025-04-28 20:54:30,230 INFO status has been updated to running
+2025-04-28 20:56:30,929 INFO status has been updated to successful
+5a8ee07c5d4ae25620f7d95399c64a72.nc:   0%|          | 0.00/35.7M [00:00<?, ?B/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:   3%|▎         | 1.00M/35.7M [00:01<00:57, 634kB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:   6%|▌         | 2.00M/35.7M [00:01<00:26, 1.34MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:   8%|▊         | 3.00M/35.7M [00:01<00:15, 2.16MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  17%|█▋        | 6.00M/35.7M [00:02<00:06, 5.10MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  25%|██▌       | 9.00M/35.7M [00:02<00:03, 7.86MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  34%|███▎      | 12.0M/35.7M [00:02<00:02, 10.2MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  42%|████▏     | 15.0M/35.7M [00:02<00:01, 12.0MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  50%|█████     | 18.0M/35.7M [00:02<00:01, 13.1MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  59%|█████▉    | 21.0M/35.7M [00:03<00:01, 14.3MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  64%|██████▍   | 23.0M/35.7M [00:03<00:01, 11.2MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  73%|███████▎  | 26.0M/35.7M [00:03<00:00, 12.7MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  78%|███████▊  | 28.0M/35.7M [00:03<00:00, 10.0MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  84%|████████▍ | 30.0M/35.7M [00:04<00:00, 10.3MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  90%|████████▉ | 32.0M/35.7M [00:04<00:00, 10.7MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc:  95%|█████████▌| 34.0M/35.7M [00:04<00:00, 11.1MB/s]5a8ee07c5d4ae25620f7d95399c64a72.nc: 100%|██████████| 35.7M/35.7M [00:08<00:00, 1.46MB/s]                                                                                         ---------------------
+Get 1999 data
+---------------------
+2025-04-28 20:56:41,906 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 20:56:41,906 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 20:56:42,838 INFO Request ID is 1716c556-e4bb-47ea-b612-45aac12c85df
+2025-04-28 20:56:43,046 INFO status has been updated to accepted
+2025-04-28 22:45:40,637 INFO status has been updated to running
+2025-04-28 22:47:41,318 INFO status has been updated to successful
+fb5d1b25da8bd466d0da6a62bec985a0.nc:   0%|          | 0.00/36.1M [00:00<?, ?B/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:   3%|▎         | 1.00M/36.1M [00:01<00:58, 630kB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:   6%|▌         | 2.00M/36.1M [00:01<00:27, 1.32MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:   8%|▊         | 3.00M/36.1M [00:01<00:15, 2.18MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  14%|█▍        | 5.00M/36.1M [00:02<00:08, 4.06MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  22%|██▏       | 8.00M/36.1M [00:02<00:04, 6.97MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  28%|██▊       | 10.0M/36.1M [00:02<00:03, 8.20MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  36%|███▌      | 13.0M/36.1M [00:04<00:08, 2.94MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  39%|███▉      | 14.0M/36.1M [00:05<00:08, 2.61MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  42%|████▏     | 15.0M/36.1M [00:05<00:08, 2.67MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  44%|████▍     | 16.0M/36.1M [00:05<00:07, 2.90MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  53%|█████▎    | 19.0M/36.1M [00:05<00:03, 4.85MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  58%|█████▊    | 21.0M/36.1M [00:06<00:02, 6.33MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  67%|██████▋   | 24.0M/36.1M [00:06<00:01, 8.61MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  75%|███████▍  | 27.0M/36.1M [00:06<00:00, 9.75MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  83%|████████▎ | 30.0M/36.1M [00:06<00:00, 8.42MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  89%|████████▊ | 32.0M/36.1M [00:07<00:00, 8.98MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  94%|█████████▍| 34.0M/36.1M [00:09<00:00, 2.72MB/s]fb5d1b25da8bd466d0da6a62bec985a0.nc:  97%|█████████▋| 35.0M/36.1M [00:09<00:00, 2.75MB/s]                                                                                         ---------------------
+Get 2000 data
+---------------------
+2025-04-28 22:47:53,131 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-28 22:47:53,133 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-28 22:47:54,237 INFO Request ID is 5a5bba75-d664-46d2-a4a1-c0e3e1135fd5
+2025-04-28 22:47:54,571 INFO status has been updated to accepted
+2025-04-29 00:06:40,880 INFO status has been updated to running
+2025-04-29 00:18:45,105 INFO status has been updated to successful
+eb54b418ce78bd1157b223a8d8a199d5.nc:   0%|          | 0.00/36.2M [00:00<?, ?B/s]eb54b418ce78bd1157b223a8d8a199d5.nc:   3%|▎         | 1.00M/36.2M [00:01<00:56, 655kB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:   6%|▌         | 2.00M/36.2M [00:01<00:26, 1.38MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  11%|█         | 4.00M/36.2M [00:01<00:10, 3.08MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  19%|█▉        | 7.00M/36.2M [00:02<00:05, 5.84MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  25%|██▍       | 9.00M/36.2M [00:02<00:03, 7.79MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  30%|███       | 11.0M/36.2M [00:02<00:02, 9.18MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  36%|███▌      | 13.0M/36.2M [00:02<00:02, 10.2MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  41%|████▏     | 15.0M/36.2M [00:02<00:01, 12.1MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  47%|████▋     | 17.0M/36.2M [00:03<00:02, 9.04MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  55%|█████▌    | 20.0M/36.2M [00:03<00:01, 10.0MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  61%|██████    | 22.0M/36.2M [00:05<00:05, 2.66MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  64%|██████▎   | 23.0M/36.2M [00:05<00:04, 2.93MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  66%|██████▋   | 24.0M/36.2M [00:05<00:03, 3.25MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  75%|███████▍  | 27.0M/36.2M [00:06<00:01, 5.11MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  83%|████████▎ | 30.0M/36.2M [00:06<00:00, 7.05MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  91%|█████████ | 33.0M/36.2M [00:06<00:00, 9.03MB/s]eb54b418ce78bd1157b223a8d8a199d5.nc:  97%|█████████▋| 35.0M/36.2M [00:09<00:00, 2.50MB/s]                                                                                         ---------------------
+Get 2001 data
+---------------------
+2025-04-29 00:18:56,232 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-29 00:18:56,233 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-29 00:18:57,266 INFO Request ID is 185cb3fd-1d88-4d82-a251-e0d721e5fbef
+2025-04-29 00:18:57,539 INFO status has been updated to accepted
+2025-04-29 03:28:38,997 INFO status has been updated to running
+2025-04-29 03:30:39,673 INFO status has been updated to successful
+b66e0f74277abb99063eafdeb46d000f.nc:   0%|          | 0.00/36.0M [00:00<?, ?B/s]b66e0f74277abb99063eafdeb46d000f.nc:   3%|▎         | 1.00M/36.0M [00:01<00:57, 641kB/s]b66e0f74277abb99063eafdeb46d000f.nc:   6%|▌         | 2.00M/36.0M [00:01<00:26, 1.35MB/s]b66e0f74277abb99063eafdeb46d000f.nc:   8%|▊         | 3.00M/36.0M [00:01<00:16, 2.16MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  17%|█▋        | 6.00M/36.0M [00:02<00:06, 5.15MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  25%|██▍       | 9.00M/36.0M [00:02<00:03, 7.84MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  33%|███▎      | 12.0M/36.0M [00:02<00:02, 10.2MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  39%|███▉      | 14.0M/36.0M [00:04<00:09, 2.47MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  44%|████▍     | 16.0M/36.0M [00:05<00:06, 3.19MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  50%|████▉     | 18.0M/36.0M [00:05<00:04, 4.05MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  58%|█████▊    | 21.0M/36.0M [00:05<00:02, 5.76MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  67%|██████▋   | 24.0M/36.0M [00:05<00:01, 7.56MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  72%|███████▏  | 26.0M/36.0M [00:07<00:03, 2.91MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  75%|███████▍  | 27.0M/36.0M [00:08<00:03, 2.72MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  78%|███████▊  | 28.0M/36.0M [00:08<00:02, 2.90MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  80%|████████  | 29.0M/36.0M [00:08<00:02, 3.39MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  86%|████████▌ | 31.0M/36.0M [00:08<00:01, 4.87MB/s]b66e0f74277abb99063eafdeb46d000f.nc:  94%|█████████▍| 34.0M/36.0M [00:08<00:00, 6.72MB/s]                                                                                         ---------------------
+Get 2002 data
+---------------------
+2025-04-29 03:30:50,673 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-29 03:30:50,673 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-29 03:30:51,916 INFO Request ID is 67fb2074-6e08-434c-969f-a5cd2be69847
+2025-04-29 03:30:52,112 INFO status has been updated to accepted
+2025-04-29 05:34:03,166 INFO status has been updated to running
+2025-04-29 05:36:03,839 INFO status has been updated to successful
+af1d7935c44f76e6060e2625b1e1666b.nc:   0%|          | 0.00/30.6M [00:00<?, ?B/s]af1d7935c44f76e6060e2625b1e1666b.nc:   3%|▎         | 1.00M/30.6M [00:01<00:48, 641kB/s]af1d7935c44f76e6060e2625b1e1666b.nc:   7%|▋         | 2.00M/30.6M [00:01<00:22, 1.35MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  10%|▉         | 3.00M/30.6M [00:02<00:15, 1.86MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  20%|█▉        | 6.00M/30.6M [00:02<00:05, 4.33MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  26%|██▌       | 8.00M/30.6M [00:02<00:04, 5.76MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  33%|███▎      | 10.0M/30.6M [00:02<00:03, 7.06MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  39%|███▉      | 12.0M/30.6M [00:02<00:02, 8.18MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  46%|████▌     | 14.0M/30.6M [00:03<00:01, 9.05MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  52%|█████▏    | 16.0M/30.6M [00:07<00:11, 1.31MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  55%|█████▌    | 17.0M/30.6M [00:07<00:09, 1.46MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  62%|██████▏   | 19.0M/30.6M [00:08<00:05, 2.09MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  65%|██████▌   | 20.0M/30.6M [00:08<00:04, 2.41MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  72%|███████▏  | 22.0M/30.6M [00:08<00:03, 2.80MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  82%|████████▏ | 25.0M/30.6M [00:09<00:01, 3.64MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  91%|█████████▏| 28.0M/30.6M [00:09<00:00, 5.23MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  95%|█████████▍| 29.0M/30.6M [00:09<00:00, 5.33MB/s]af1d7935c44f76e6060e2625b1e1666b.nc:  98%|█████████▊| 30.0M/30.6M [00:09<00:00, 5.43MB/s]                                                                                         ---------------------
+Get 2003 data
+---------------------
+2025-04-29 05:36:15,944 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-29 05:36:15,944 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-29 05:36:16,980 INFO Request ID is 3c585f2c-f1eb-4087-b631-3ad2a5ca828d
+2025-04-29 05:36:17,185 INFO status has been updated to accepted
+2025-04-29 08:05:38,549 INFO status has been updated to running
+2025-04-29 08:07:39,206 INFO status has been updated to successful
+f679cc9b8666109753f3fbd6fc761b81.nc:   0%|          | 0.00/36.4M [00:00<?, ?B/s]f679cc9b8666109753f3fbd6fc761b81.nc:   3%|▎         | 1.00M/36.4M [00:01<01:01, 606kB/s]f679cc9b8666109753f3fbd6fc761b81.nc:   5%|▌         | 2.00M/36.4M [00:01<00:28, 1.28MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  11%|█         | 4.00M/36.4M [00:02<00:11, 2.91MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  19%|█▉        | 7.00M/36.4M [00:02<00:05, 5.57MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  25%|██▍       | 9.00M/36.4M [00:02<00:04, 6.93MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  33%|███▎      | 12.0M/36.4M [00:02<00:02, 9.41MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  41%|████      | 15.0M/36.4M [00:02<00:01, 11.4MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  49%|████▉     | 18.0M/36.4M [00:02<00:01, 13.1MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  58%|█████▊    | 21.0M/36.4M [00:03<00:01, 14.3MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  63%|██████▎   | 23.0M/36.4M [00:03<00:01, 12.4MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  69%|██████▊   | 25.0M/36.4M [00:03<00:00, 12.2MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  74%|███████▍  | 27.0M/36.4M [00:03<00:01, 9.51MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  80%|███████▉  | 29.0M/36.4M [00:04<00:00, 9.97MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  85%|████████▌ | 31.0M/36.4M [00:04<00:00, 10.5MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  91%|█████████ | 33.0M/36.4M [00:04<00:00, 11.0MB/s]f679cc9b8666109753f3fbd6fc761b81.nc:  96%|█████████▌| 35.0M/36.4M [00:04<00:00, 11.3MB/s]                                                                                         ---------------------
+Get 2004 data
+---------------------
+2025-04-29 08:07:45,831 INFO [2024-09-26T00:00:00] Watch our [Forum](https://forum.ecmwf.int/) for Announcements, news and other discussed topics.
+2025-04-29 08:07:45,831 WARNING [2024-06-16T00:00:00] CDS API syntax is changed and some keys or parameter names may have also changed. To avoid requests failing, please use the "Show API request code" tool on the dataset Download Form to check you are using the correct syntax for your API request.
+2025-04-29 08:07:46,859 INFO Request ID is 305a8624-f3eb-4db5-936e-e5878349561e
+2025-04-29 08:07:47,046 INFO status has been updated to accepted
+2025-04-29 08:58:34,452 INFO status has been updated to failed
+Traceback (most recent call last):
+  File "/media/data5/wyp/lq/SWH_Retrieval/preprocess/down_era5_waveDrection.py", line 45, in <module>
+    client.retrieve(dataset, request, temp_file_name)
+  File "/home/wyp/miniconda3/envs/pytorch/lib/python3.10/site-packages/cads_api_client/legacy_api_client.py", line 164, in retrieve
+    submitted = self.logging_decorator(self.client.submit_and_wait_on_results)(
+  File "/home/wyp/miniconda3/envs/pytorch/lib/python3.10/site-packages/cads_api_client/legacy_api_client.py", line 147, in wrapper
+    return func(*args, **kwargs)
+  File "/home/wyp/miniconda3/envs/pytorch/lib/python3.10/site-packages/cads_api_client/api_client.py", line 454, in submit_and_wait_on_results
+    return self._retrieve_api.submit(collection_id, **request).make_results()
+  File "/home/wyp/miniconda3/envs/pytorch/lib/python3.10/site-packages/cads_api_client/processing.py", line 475, in make_results
+    self._wait_on_results()
+  File "/home/wyp/miniconda3/envs/pytorch/lib/python3.10/site-packages/cads_api_client/processing.py", line 462, in _wait_on_results
+    results = self.make_results(wait=False)
+  File "/home/wyp/miniconda3/envs/pytorch/lib/python3.10/site-packages/cads_api_client/processing.py", line 481, in make_results
+    results = Results.from_request("get", results_url, **self._request_kwargs)
+  File "/home/wyp/miniconda3/envs/pytorch/lib/python3.10/site-packages/cads_api_client/processing.py", line 147, in from_request
+    cads_raise_for_status(response)
+  File "/home/wyp/miniconda3/envs/pytorch/lib/python3.10/site-packages/cads_api_client/processing.py", line 84, in cads_raise_for_status
+    raise requests.HTTPError(message, response=response)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://cds.climate.copernicus.eu/api/retrieve/v1/jobs/305a8624-f3eb-4db5-936e-e5878349561e/results
+The job has failed.
+System is currently unavailable due to internal maintenance
